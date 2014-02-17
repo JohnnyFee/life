@@ -12,12 +12,12 @@ language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://johnnyfee.github.io
-root: /life/
+url: http://johnnyfee.github.io/life
+root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
-archive_dir: archives
-category_dir: categories
+archive_dir: /life/archives
+category_dir: /life/categories
 code_dir: downloads/code
 
 # Directory

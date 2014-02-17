@@ -1,1 +1,1 @@
-hexo deploy
+hexo deploy --generate
