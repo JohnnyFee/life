@@ -1,1 +1,0 @@
-qrsync assets/blog-conf.json

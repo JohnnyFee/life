@@ -1,1 +1,1 @@
-hexo new post 文章标题
+hexo new post Title
