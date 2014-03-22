@@ -1,0 +1,38 @@
+date: 2014-02-22 22:31:27.267
+argv: node C:\Users\Johnny\AppData\Roaming\npm\node_modules\hexo\bin\hexo server
+os: Windows_NT 6.2.9200 win32 x64
+version:
+  hexo: 2.4.5
+  http_parser: 1.0
+  node: 0.10.20
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.17
+  zlib: 1.2.3
+  modules: 11
+  openssl: 1.0.1e
+---
+
+[debug] 22:31:27.087 Configuration file load successfully
+[debug] 22:31:27.090 Version info checked successfully
+[debug] 22:31:27.136 Loading database.
+[debug] 22:31:27.172 Script load successfully: fancybox.js
+[debug] 22:31:27.192 Theme layout loaded
+[debug] 22:31:27.196 Theme configuration loaded
+[debug] 22:31:27.222 Theme source loaded
+[debug] 22:31:27.241 Processed: _posts/hello.md
+[debug] 22:31:27.241 Processed: _posts/riding-wuhu-mountain.md
+[debug] 22:31:27.243 Processed: _posts/you-moutain.md
+[debug] 22:31:27.248 Cache saved
+[error] 22:31:27.260 Error: listen EADDRINUSE
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1127:5)
+    at Function.app.listen (C:\Users\Johnny\AppData\Roaming\npm\node_modules\hexo\node_modules\express\lib\application.js:533:24)
+    at C:\Users\Johnny\AppData\Roaming\npm\node_modules\hexo\lib\plugins\console\server.js:86:9
+    at C:\Users\Johnny\AppData\Roaming\npm\node_modules\hexo\lib\post\load.js:67:7
+    at C:\Users\Johnny\AppData\Roaming\npm\node_modules\hexo\node_modules\async\lib\async.js:116:25
+    at C:\Users\Johnny\AppData\Roaming\npm\node_modules\hexo\node_modules\async\lib\async.js:24:16
+    at exports.post (C:\Users\Johnny\AppData\Roaming\npm\node_modules\hexo\lib\plugins\generator\asset.js:50:3)
