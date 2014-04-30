@@ -2,6 +2,6 @@
 	"access_key": "A8yTVsSWorXO9kcWhW_TkDaWf0OhUNcpKKX2GQpo",
 	"secret_key": "d6g_qaCrxSaSLOweGUvHWAF355J9t6pIqgwJNw-a",
 	"bucket": "lifeimages",
-	"sync_dir": "D:/project/life/images",
+	"sync_dir": "D:/project/life/resources/images",
 	"debug_level": 1
 }
