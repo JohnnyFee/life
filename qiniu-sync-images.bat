@@ -1,1 +1,1 @@
-qrsync images-conf.json
+qrsync resources/images-conf.json
