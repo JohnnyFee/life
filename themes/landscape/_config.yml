@@ -1,7 +1,7 @@
 # Header
 menu:
-  首页: /life
-  技术: /
+  首页: /
+  生活: /life
 rss: /atom.xml
 
 # Content
@@ -10,7 +10,7 @@ fancybox: true
 
 # Sidebar
 sidebar: right
-widgets_index:
+widgets:
 - recent_posts
 - category
 - tagcloud

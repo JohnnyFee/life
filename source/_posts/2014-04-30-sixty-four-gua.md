@@ -70,18 +70,3 @@ tags: [iching, philosophy]
 
 - [易经六十四卦——变换速记表_百度文库](http://wenku.baidu.com/view/013a10d776eeaeaad1f330c9.html)
 - [浅谈《易经》六十四卦方圆图的记忆_百度文库](http://wenku.baidu.com/view/fc27916d011ca300a6c3901e.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
