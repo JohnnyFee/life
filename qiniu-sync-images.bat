@@ -1,3 +1,3 @@
 echo off
-rem ![障碍](http://lifeimages.qiniudn.com/riding/big-obstacle.jpg)
-qrsync resources/images-conf.json
+rem ![](http://lifeimages.qiniudn.com/big-obstacle.jpg)
+%~dp0\utils\qiniu\qrsync %~dp0\resources\images-conf.json
