@@ -35,6 +35,8 @@ category: 八字
 
 ![](http://lifeimages.qiniudn.com/tiangan-wuxing.png)
 
+天干只有属性，没有方位。
+
 ### 天干克死的标准 
 
 克死即没用；克伤即受伤，没死还有作用。 
@@ -147,13 +149,17 @@ See also [天干五合_百度百科](http://baike.baidu.com/link?url=Z2V6UWUN4yi
 子  丑  寅  卯  辰  巳  午  未  申  酉  戌  亥
 </pre>
 
+![](http://lifeimages.qiniudn.com/dizhi.png)
+
 ### 五行属性
 
 ![](http://lifeimages.qiniudn.com/dizhi-wuxing.png)
 
 地支克死的标准、地支生克、六合发生关系的法则跟天干一样；合化、不化、合生、合克、生克的意义跟天干一样。
 
-### 地支六合、暗合
+### 地支六合
+
+相合者，有合作、结合、和好之意。
 
 ![](http://lifeimages.qiniudn.com/dizhi-liuhe.png)
 
@@ -161,9 +167,7 @@ See also [天干五合_百度百科](http://baike.baidu.com/link?url=Z2V6UWUN4yi
 
 暗合：丑寅，申卯，午亥，巳酉；（藏干中有一组合即可）
 
-### 地支合化与否的判断法则
-
-地支合化条件：
+__地支合化条件：__
 
 - 地支没有生扶且天干有助化之五行，地支也没有其他五行克合化的其中任一五行。
 - 合化者逢大运、流年、流月遇生扶则还原其五行本性；不化者逢大运、流年、
@@ -208,15 +212,17 @@ See also [天干五合_百度百科](http://baike.baidu.com/link?url=Z2V6UWUN4yi
 
 ### 地支六冲
 
-十二地支为太阳在南北回归线来回运动对地球的直射点，所以具有方位性。
-
-地支六冲：子午冲，丑未冲，申寅冲，卯酉冲，巳亥冲，辰戌冲。 
+十二地支为太阳在南北回归线来回运动对地球的直射点，所以具有方位性。 
 
 相冲：为敌对、挑战、撕破脸皮，排斥、分开；相冲具有来回性，相互性，故两者皆受伤。一冲一为一人打一人；二冲一为两人打一人；其余类推。相冲时，支藏干中余气皆受伤，可以不看，只剩下主气五行相战。
 
 相冲发生法则：只有邻位才发生，隔位不发生，跟天干五合、相克法则一样。
 
-### 地支三合、三会局
+![](http://lifeimages.qiniudn.com/dizhi-xiangchong.png)
+
+<small>地支六冲：子午冲，丑未冲，申寅冲，卯酉冲，巳亥冲，辰戌冲</small>
+
+### 地支三合局、三会方
 
 三合：申子辰三合水局；亥卯未三合木局；寅午戌三合火局；巳酉丑三合金局。
 
@@ -232,7 +238,7 @@ See also [天干五合_百度百科](http://baike.baidu.com/link?url=Z2V6UWUN4yi
 
 ### 地支藏干
 
-![](http://lifeimages.qiniudn.com/divi-canggan.png)
+![](http://lifeimages.qiniudn.com/divi-canggan.png)__
 
 ### 十二时辰
 
