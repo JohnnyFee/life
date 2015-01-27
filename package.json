@@ -1,6 +1,11 @@
 {
-  "name": "hexo",
-  "version": "2.8.2",
-  "private": true,
-  "dependencies": {}
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-qiniu-deploy": "^0.1.4",
+    "load-grunt-tasks": "^3.0.0"
+  }
 }

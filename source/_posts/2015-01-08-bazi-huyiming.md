@@ -304,11 +304,13 @@ See [十神-百度百科](http://baike.baidu.com/view/531669.htm)
 
 ![](http://lifeimages.qiniudn.com/rizhu-shishen.png)
 
-当日主为甲时：
+例如，当日主为甲时：
 
 ![](http://lifeimages.qiniudn.com/shishen-jia.png)
 
 【记住】：比食偏，即同性为偏，异性为正。
+
+如上例中，戊土和甲木同阳，所以戊土为偏财，己土为正财；庚金和甲木同阳，则庚金为偏官，辛金为正官。
 
 ### 十神类象
 
