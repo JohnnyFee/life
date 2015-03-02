@@ -33,6 +33,6 @@ module.exports = function(grunt) {
 	require('load-grunt-tasks')(grunt);
 
 	// Default task.
-	grunt.registerTask('default', ['watch']);
+	grunt.registerTask('default', ['qiniu', 'watch']);
 
 };
