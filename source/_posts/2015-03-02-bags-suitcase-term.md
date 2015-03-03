@@ -298,8 +298,138 @@ thin: 薄
 thick 厚
 net pocket/mesh: 网袋
 briefcase:公文包
+waist bag: 腰包
+foam:泡棉
+padded:垫料
+panel: 底板/侧板
+compartment: 间隔层
+shoulder bags:肩包
+]strap: 带子
+handle:手把
+puller 拉头
+grip: 把手
+Ripstop: 格子布
+microfiber:花瑶布
+420D crinkle nylon 420D的水洗布
+PE board:PE 板
+flap: 盖子
+trolley: 拉杆
+swatch:样卡
+elastic: 松紧带
+adjustable: 可调节的
+cardboard:纸板
+jean: 牛仔布
+camouflage:迷彩色
+weave label: 织唛
+stud: 角钉
+fabric:布料
+plastic:塑料
+taslon:塔丝龙
+tapestry:窗帘提花布
+backpack: 背包
+pouch钱包
+travelling bags:旅行包
+riptop:格子布
+nickel镍
+rivet:铆钉
+zipper:拉链
+log 标记
+rubber 橡胶
+buckle:扣子
+match color:配色
+ribbon: 缎带
+embroidery刺绣
+yarn;线
+mark: 唛头
+printing: 印刷
+inner laber 内标
+hangtag 挂牌
+carton;纸箱
+packing: 包装
+pantone 色卡
+velcro 麾术贴
+Piping:胶骨
+binding包边
+embroidery 绣花
+hanger 衣架
+back stitch 回针
+break stitch断针
+labour cost 工价
+overtime working 加班
+taffeta 平纹
+twill 斜纹
+jacquard 提花
+check 格子
+stripe 条纹
+fabric 面料
+polyester 涤纶
+nylon 尼龙
+lining 里布
+piping 凯线
+match color 配色
+pattern 纸样
+design sketch设计图
+invisible zipper/conceal zipper:隐形拉链
+backing .COATIING涂层 钮圈
+BUCKLE LOOP 鸡眼
+EYELET 撞钉
+RIVET  胶针
+PLASTIC STING  JEL PRINT--胶体印刷
+WOVEN LABEL--织唛
+FELT--毛绒布
+rubber patch--滴塑
+rubber label---滴唛
+elastic cord----橡皮筋
+self fabric pipping---本布包骨
+pipping cord----------衬条
+Semitransparent:磨沙  PVC 70Dsponge:70发泡
+mesh / net : 网布
+rope: 绳子
+interior:/outer 内/外部  
+layer:层
+靛蓝青年布：indigo chambray
+人棉布植绒：rayon cloth flocking  pvc植绒：pvc flocking   针织布植绒：knitting cloth flocking  珠粒绒：claimond veins  倒毛：down pile making  平绒：velveteen (velvet-plain)  仿麂皮：micro suede  牛仔皮植绒：jeans flocking  尼丝纺：nylon taffeta (nylon shioze)  尼龙塔夫泡泡纱：nylon seersucker taffeta  素面植绒：plain flocking  印花植绒：flocking(flower)  雕印植绒：embossing flocking   皮革沟底植绒：leather imitation flocking  牛仔植绒雕印：embossing jeans flocking  兔羊绒大衣呢：angora cachmere overcoating   羊毛双面呢：double-faced woolen goods  立绒呢：cut velvet  顺毛呢：over coating  粗花呢：costume tweed  弹力呢：lycra woolen goods  塔丝绒： nylon taslon  塔丝绒格子：n/taslon ripstop  桃皮绒：polyester peach skin  涤塔夫：polyester taffeta  春亚纺：polyester pongee  超细麦克布：micro fiber
 锦棉稠(平纹)：nylon-cotton fabric （plain）
-重平锦棉稠：nylon-cotton-cotton fabric(double weft)   人字锦棉纺：nylon-cotton fabric  斜纹锦棉纺：nylon-cotton fabric (twill)  素色天鹅绒：solid velvet   抽条磨毛天鹅绒：rib fleece velvet  雪花天鹅绒：melange velvet  轧花天鹅绒：ginning velvet  粒粒绒布：pellet fleece velvet   麻棉混纺布：linen/cotton blended fabric  麻棉交织布：linen/cotton mixed fabric  素色毛巾布：solid terry  蚂蚁布：fleece in one side  素色卫衣布：solid fleece  鱼网布：fleece   彩条汗布：color-stripes single jersey  t/r弹力布：t/r bengaline   t/c色织格子布：t/c solid check fabric  弹力仿麂皮：micro suede with spandex  t/r仿麂皮：t/r micro suede   仿麂皮瑶粒绒复合布：100%polyester micro suede bounding with polar fleece   仿麂皮针织布复合：100% polyester bounding with knitting micro suede fabric  仿麂皮羊羔绒复合布：100% polyester micro suede bounding with lamb fur  蜡光缎：cire satine   全消光尼丝纺：full dull nylon taffeta  半消光尼丝纺：semi-dull nylon taffeta  亮光尼龙：trilobal nylon   全消光塔丝隆：full dull nylon taslan  全消光牛津布：full dull nylon oxford  尼龙格：nylon rip-stop  塔丝隆格：taslan rip-stop   哑富迪：full dull micro polyester pongee  全消光春亚纺：full dull polyester pongee  春亚纺格子：polyester pongee rip-stop  全消光涤纶桃皮绒：full dull polyester peach  宽斜纹桃皮绒：big twill polyester peach  涤锦复合桃皮绒：poly/nylon peach  涤纶格子：polyester taffeta rip-stop  涤纶蜂巢塔丝隆：polyester honey taslan  全消光涤纶低弹牛津布：full dull poly textured  oxford   涤锦交织桃皮绒：nylon/polyester inter-woven peach    Container Cubic: 20':26-28 CBM 40':56-58 CBM 40' HQ:65-68 CBM 45':75 CBM   jhbags 网友提供:   裁床
+重平锦棉稠：nylon-cotton-cotton fabric(double weft)
+人字锦棉纺：nylon-cotton fabric
+斜纹锦棉纺：nylon-cotton fabric (twill)
+素色天鹅绒：solid velvet
+抽条磨毛天鹅绒：rib fleece velvet
+雪花天鹅绒：melange velvet
+轧花天鹅绒：ginning velvet
+粒粒绒布：pellet fleece velvet
+麻棉混纺布：linen/cotton blended fabric
+麻棉交织布：linen/cotton mixed fabric
+素色毛巾布：solid terry
+蚂蚁布：fleece in one side
+素色卫衣布：solid fleece
+鱼网布：fleece
+彩条汗布：color-stripes single jersey  t/r
+弹力布：t/r bengaline   t/c
+色织格子布：t/c solid check fabric
+弹力仿麂皮：micro suede with spandex  t/r
+仿麂皮：t/r micro suede
+仿麂皮瑶粒绒复合布：100%polyester micro suede bounding with polar fleece
+仿麂皮针织布复合：100% polyester bounding with knitting micro suede fabric
+仿麂皮羊羔绒复合布：100% polyester micro suede bounding with lamb fur
+蜡光缎：cire satine
+全消光尼丝纺：full dull nylon taffeta
+半消光尼丝纺：semi-dull nylon taffeta
+亮光尼龙：trilobal nylon
+全消光塔丝隆：full dull nylon taslan
+全消光牛津布：full dull nylon oxford
+尼龙格：nylon rip-stop
+塔丝隆格：taslan rip-stop
+哑富迪：full dull micro polyester pongee
+全消光春亚纺：full dull polyester pongee
+春亚纺格子：polyester pongee rip-stop
+全消光涤纶桃皮绒：full dull polyester peach
+宽斜纹桃皮绒：big twill polyester peach
+涤锦复合桃皮绒：poly/nylon peach
+涤纶格子：polyester taffeta rip-stop
+涤纶蜂巢塔丝隆：polyester honey taslan
+全消光涤纶低弹牛津布：full dull poly textured  oxford
+涤锦交织桃皮绒：nylon/polyester inter-woven peach    Container Cubic: 20':26-28 CBM 40':56-58 CBM 40' HQ:65-68 CBM 45':75 CBM   jhbags 网友提供:   裁床
 CUTTING BED  绣花机
 EMBROIDERING M/C 直刀电剪
 STRAIGHT KNIFE M/C 切布机
@@ -367,7 +497,7 @@ baseball leather棒球革
 basketball leather篮球革
 bellow leather风箱革
 belt leather带皮
-belting leather带革; 轮带
+belting leather带革，轮带
 book-binding leather书面革
 bottom leather底革
 boxing-glove leather拳击手套革
