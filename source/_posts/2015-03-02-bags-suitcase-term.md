@@ -388,9 +388,35 @@ rope: 绳子
 interior:/outer 内/外部  
 layer:层
 靛蓝青年布：indigo chambray
-人棉布植绒：rayon cloth flocking  pvc植绒：pvc flocking   针织布植绒：knitting cloth flocking  珠粒绒：claimond veins  倒毛：down pile making  平绒：velveteen (velvet-plain)  仿麂皮：micro suede  牛仔皮植绒：jeans flocking  尼丝纺：nylon taffeta (nylon shioze)  尼龙塔夫泡泡纱：nylon seersucker taffeta  素面植绒：plain flocking  印花植绒：flocking(flower)  雕印植绒：embossing flocking   皮革沟底植绒：leather imitation flocking  牛仔植绒雕印：embossing jeans flocking  兔羊绒大衣呢：angora cachmere overcoating   羊毛双面呢：double-faced woolen goods  立绒呢：cut velvet  顺毛呢：over coating  粗花呢：costume tweed  弹力呢：lycra woolen goods  塔丝绒： nylon taslon  塔丝绒格子：n/taslon ripstop  桃皮绒：polyester peach skin  涤塔夫：polyester taffeta  春亚纺：polyester pongee  超细麦克布：micro fiber
+人棉布植绒rayon cloth flocking  
+pvc植绒：pvc flocking
+针织布植绒 knitting cloth flocking
+珠粒绒 claimond veins
+倒毛 down pile making
+平绒 velveteen (velvet-plain)
+仿麂皮 micro suede
+牛仔皮植绒 jeans flocking
+尼丝纺 nylon taffeta (nylon shioze)
+尼龙塔夫泡泡纱 nylon seersucker taffeta
+素面植绒 plain flocking
+印花植绒 flocking(flower)
+雕印植绒 embossing flocking
+皮革沟底植绒 leather imitation flocking
+牛仔植绒雕印 embossing jeans flocking
+兔羊绒大衣呢 angora cachmere overcoating
+羊毛双面呢 double-faced woolen goods
+立绒呢 cut velvet
+顺毛呢 over coating
+粗花呢 costume tweed
+弹力呢 lycra woolen goods
+塔丝绒  nylon taslon
+塔丝绒格子 n/taslon ripstop
+桃皮绒 polyester peach skin
+涤塔夫 polyester taffeta
+春亚纺 polyester pongee
+超细麦克布 micro fiber
 锦棉稠(平纹)：nylon-cotton fabric （plain）
-重平锦棉稠：nylon-cotton-cotton fabric(double weft)
+重平锦棉稠 nylon-cotton-cotton fabric(double weft)
 人字锦棉纺：nylon-cotton fabric
 斜纹锦棉纺：nylon-cotton fabric (twill)
 素色天鹅绒：solid velvet
