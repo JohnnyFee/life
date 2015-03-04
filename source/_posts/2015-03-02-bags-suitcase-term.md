@@ -18,14 +18,14 @@ category: 外贸
 - Trolley Backpack 拉杆背包
 - Waist Bag 腰包
 - Handbag 手提包
-- backpack: 背包 
-- pouch(wallet): 钱包 
-- traveling bags: 旅行包 
-- briefcase: 公文包
+- backpack 背包 
+- pouch(wallet) 钱包 
+- traveling bags 旅行包 
+- briefcase 公文包
 - Tote bag：大手提袋 
-- lady bag: 女士包 
-- waist bag: 腰包 
-- pencil case: 笔袋 
+- lady bag 女士包 
+- waist bag 腰包 
+- pencil case 笔袋 
 - shoulder bags肩包 
 - sport bag 運動包
 - satchel 小背包
@@ -49,6 +49,20 @@ category: 外贸
 - purse 女用包
 - note case 公文袋
 - soft attache case 手提箱
+- Beauty Case 化妆袋
+- Briefcase 公文袋
+- Cabin Case 航空袋
+- Camera Bag 相机袋
+- Duffle /Travel bag 旅行袋
+- Flight Bag /Tote 航空袋
+- Garment Bag 西装袋
+- Simple Notebook Bag 简单电脑袋
+- Toilet Kit 洗手间袋
+- Travel Bag with Trolley 拖轮袋
+- Trolley /Uprights 拉杆箱
+- Trolley Backpack 拉杆背包
+- Waist Bag 腰包 
+- Handbag 手提包
 
 ## Material 原料
 
@@ -120,56 +134,56 @@ category: 外贸
 - Plastic Water Bottles 塑胶水桶钉
 - Swivel Hanger bracket 旋转衣架座
 - Universal Hanger Hooks 整体挂勾
-- net pocket/mesh: 网袋
-- briefcase:公文包
-- waist bag: 腰包
-- foam:泡棉
-- padded:垫料
-- panel: 底板/侧板
-- compartment: 间隔层
-- shoulder bags:肩包
-- ]strap: 带子
-- handle:手把
+- net pocket/mesh 网袋
+- briefcase 公文包
+- waist bag 腰包
+- foam 泡棉
+- padded 垫料
+- panel 底板/侧板
+- compartment 间隔层
+- shoulder bags 肩包
+- ]strap 带子
+- handle 手把
 - puller 拉头
-- grip: 把手
-- Ripstop: 格子布
-- microfiber:花瑶布
+- grip 把手
+- Ripstop 格子布
+- microfiber 花瑶布
 - 420D crinkle nylon 420D的水洗布
 - PE board:PE 板
-- flap: 盖子
-- trolley: 拉杆
-- swatch:样卡
-- elastic: 松紧带
-- adjustable: 可调节的
-- cardboard:纸板
-- jean: 牛仔布
-- camouflage:迷彩色
-- weave label: 织唛
-- stud: 角钉
-- fabric:布料
-- plastic:塑料
-- taslon:塔丝龙
-- tapestry:窗帘提花布
-- - riptop:格子布
+- flap 盖子
+- trolley 拉杆
+- swatch 样卡
+- elastic 松紧带
+- adjustable 可调节的
+- cardboard 纸板
+- jean 牛仔布
+- camouflage 迷彩色
+- weave label 织唛
+- stud 角钉
+- fabric 布料
+- plastic 塑料
+- taslon 塔丝龙
+- tapestry 窗帘提花布
+- riptop 格子布
 - nickel镍
-- rivet:铆钉
-- zipper:拉链
+- rivet 铆钉
+- zipper 拉链
 - logo 标记
 - rubber 橡胶
-- buckle:扣子
-- match color:配色
-- ribbon: 缎带
-- embroidery刺绣
-- yarn;线
-- mark: 唛头
-- printing: 印刷
+- buckle 扣子
+- match color 配色
+- ribbon 缎带
+- embroidery 刺绣
+- yarn 线
+- mark 唛头
+- printing 印刷
 - inner laber 内标
 - hangtag 挂牌
 - carton;纸箱
-- packing: 包装
+- packing 包装
 - pantone 色卡
 - velcro 麾术贴
-- Piping:胶骨
+- Piping 胶骨
 - binding包边
 - embroidery 绣花
 - hanger 衣架
@@ -190,7 +204,7 @@ category: 外贸
 - match color 配色
 - pattern 纸样
 - design sketch设计图
-- invisible zipper/conceal zipper:隐形拉链
+- invisible zipper/conceal zipper 隐形拉链
 - backing .COATIING涂层 钮圈
 - BUCKLE LOOP 鸡眼
 - EYELET 撞钉
@@ -203,11 +217,11 @@ category: 外贸
 - elastic cord----橡皮筋
 - self fabric pipping---本布包骨
 - pipping cord----------衬条
-- Semitransparent:磨沙  PVC 70Dsponge:70发泡
-- mesh / net : 网布
-- rope: 绳子
+- Semitransparent 磨沙  PVC 70Dsponge:70发泡
+- mesh / net  网布
+- rope 绳子
 - interior:/outer 内/外部  
-- layer:层
+- layer 层
 - indigo chambray 靛蓝青年布
 - rayon cloth flocking   人棉布植绒
 - pvc flocking pvc 植绒 
@@ -277,6 +291,58 @@ category: 外贸
 - polyester honey taslan 涤纶蜂巢塔丝隆
 - full dull poly textured  oxford 全消光涤纶低弹牛津布
 - nylon/polyester inter-woven peach  涤锦交织桃皮绒
+- Binding Material 包边用料
+- Cord for Cord-Handles 手把索
+- Brushed Nylon for Computer Cases 拉过绒的尼龙用在电脑箱
+- Cardboard Bottom Boards 纸底板
+- Dobbie Weave 交织
+- Cord for Cord-Locks 锁索
+- Dividers & Separators’
+- material 分隔面料
+- Elastics 松紧带
+- Foams 海绵
+- Insulating Materials 绝缘物料
+- Leather Trim 真皮配料
+- Linings 内里
+- Main Coated materials 主要外层面料
+- Mesh /Other type of Tissue 网布/纱布
+- Piping Bumpers 管条脚座
+- Piping Materials 管条
+- Plywood Bottom Boards 底部胶合板（木板/三合板）、
+- Polyethylene for Corners /Backing 角位/底部面料
+- Polyvinyl(PVC)Sponge Trim PVC海绵配料
+- Thread 车线
+- Velcro 幺术贴
+- Webbing 织带
+- Zipper Pulls 拉片
+- Zipper Sliders 拉链头
+- Zipper Tapers 拉链
+- Structural Hardware 金属结构
+- Accessory Hook 前拖带
+- Rivets & Washers 铆钉和垫圈
+- Alligator Studs 短钉
+- Runners 背面长条
+- Bottom Stand 前脚
+- Screws 螺丝
+- Bottom Studs 底钉
+- Shoulder Strap 肩带
+- Complete Extendable Handle System 拉杆架
+- Side Handle 侧手把
+- Conveyor Belt 运轮带
+- Snaps 纽扣/四合扣
+- Extendible Handles’
+- Parts /Mechanisms 伸缩拉杆配件/结构
+- Grommets 垫圈
+- Studs (Side Studs )大头钉（侧泡钉）
+- Handle with brackets 手把连扣
+- Top Carrying Handle 主手把
+- Honeycomb Sample 蜂巢板
+- Wheel Casings 轮子的盖
+- Handle Wrap 手握片
+- Wheels and base 拉杆箱轮子连底座
+- Metal Frame Sample 铁框
+- Polyethylene Board Samples ---PE板
+- Rings /Other Metal Parts 金属环/其它金属配件
 
 ### Labels 标签
 
@@ -355,6 +421,421 @@ category: 外贸
 - Mix End 错经
 - Wavy Selvedge 浪边
 
+### textile raw materials 纺织原料
+
+- natural fibre 天然纤维
+- chemical fibre 化学纤维
+- vegetable fibre 植物纤维
+- textile fibre 纺织纤维
+- man made fibre 人造纤维
+- animal fibre     动物纤维
+
+### 面料
+
+#### 机织物服装面料
+
+- plain cloth 平纹布
+- oxford 牛津布
+- drill 斜纹布
+- ply-yarn drill 线卡
+- serge 哔叽
+- corduroy 灯芯绒
+- fleece 起绒布
+- seersucker 泡泡纱
+- hair cords 麻纱
+- linen cloth 亚麻布
+- silk 绸
+- woolen cloth 粗纺毛织物
+- woolen one-side gabardine 全毛单面华达呢
+- valitine 凡立丁
+- twill coating 啥味呢
+- worsted fany suiting 精纺花呢
+- flannel 法兰绒
+- overcoat suiting 大衣呢
+- mixed fabric 交织物
+- poplin 府绸
+- chambray 青年布
+- single yarn drill 纱卡
+- gabardine 华达呢
+- denim 牛仔布
+- velveteen 平绒
+- crepe 绉布
+- voile 巴厘纱
+- ramie fabric 苎麻布
+- habotai 电力纺
+- worsted fabric 精纺毛织物
+- pure wool gabardine 全毛华达呢
+- doeskin 驼丝锦
+- ladies cloth 女士呢
+- tweed  粗花呢
+
+#### 针织物面料
+
+- weft-knitted fabric 纬编针织物
+- single knit fabric 单面针织物
+- plain knit fabric 纬平针织物
+- interlock fabric 双罗纹针织物
+- interlock fabric 起绒针织物
+- terry knitted fabric 毛圈针织物
+- two-bar fabric 双梳栉经编针织物
+- warp-knitted fabric 经编针织物
+- double knit fabric 双面针织物
+- rib knit fabric 罗纹针织物
+- purl fabric 双反面针织物
+- high pile knitted fabric 长毛绒针织物
+- jacquard knitted fabric 提花针织物
+- multi-bar fabric 多梳栉经编针织物
+
+### 辅料
+
+#### 衬
+
+- resin interlining 树脂衬
+- breast canvas 麻布胸衬
+- resin collar interlining 树脂领衬
+- breast fleece 绒布胸衬
+- fusible interlining 热熔衬
+- adhesive-bonded interlining 粘合衬
+- double-faced adhesive interlining 双面粘合衬
+- non-woven interlining 无纺布衬
+- non-woven adhesive interlining 无纺粘合衬
+- adhesive woreninterlinging 有纺粘合衬
+- hair interlining 黑炭衬
+- horsehair interlining 马尾衬
+- chemical fibre interlining 化纤衬
+- knitted interlining  针织衬
+
+#### 填料
+
+- cotton 棉花
+- artificial cotton 人造棉
+- polyester wadding 喷胶棉
+- silk wadding 丝棉
+- acrylic staple fibre 腈纶棉
+- down 羽绒
+
+#### 线、扣、拉链
+
+- thread 线
+- cotton thread 棉线
+- silk thread 丝线
+- nylon thread 尼龙线
+- ornamental thread 装饰线
+- button 钮
+- four-hole button 四目扣
+- decorative button 装饰纽扣
+- special-shaped button 异形扣
+- plastic button 塑料扣
+- glass button 玻璃扣
+- snap button 子母扣，四合扣
+- zipper 拉链
+- nylon zipper 尼龙拉链
+- polyester zipper 涤纶拉链
+- zipper with double sliders 双头拉链
+- fashion tape 装饰带
+- rib 罗纹
+- twist 缝纫用线
+- flax thread 麻线
+- embroidery thread 绣花线
+- polyester thread 涤纶线
+- cone of thread 宝塔线
+- two-hole button 两目扣
+- covered button 包扣
+- claw button 羊角扣
+- metal button 金属扣
+- resin button 树脂扣
+- wood button 木扣
+- nylon fastener tape 尼龙搭扣
+- metal zipper 金属拉链
+- plastic zipper 塑料拉链
+- collar clasp 领钩
+- agraffe 搭钩
+- elastic ribbon 橡筋
+- elastic rib  弹力罗纹
+
+### Accessories 配件
+
+Badge /Emblem 徽章，象征，标志
+Buckles 插扣
+Chains 缝条/链
+Cord-Locks (Toggle-Locks ,Barrel-Locks ) s锁（套索锁，桶锁）
+Hanger  Hooks  &  Mechanisms  for  Swing-Hooks 挂钩和摇摆钩
+Hooks 勾
+Lid 盖
+Luggage Identification Tags 行李箱地址牌
+Nameplate 商标/Logo /铝牌
+Strap 背带
+Outside Hanger Hooks for Garment Bags 供西装袋用的勾（衣架）
+Padlocks & Keys 锁和钥匙
+Plastic Water Bottles 塑胶水桶钉
+Swivel Hanger bracket 旋转衣架座
+Universal Hanger Hooks 整体挂勾
+Labels 标签
+Guarantee Carton Tags 保证吊牌
+Inside Country of Origin Label 内布标
+Other Required Tag 其它要求的吊牌
+Product Knowledge Carton Tags 产品吊牌
+Tear-Me Test Tags 本布吊牌
+UPC Tag –UPC吊牌
+Buckle/Lock扣或锁
+Belt Buckle 皮带扣
+Press Locks 插锁
+Metal Pin Buckle 铁线针扣
+Snap Fastener 四合扣
+Metal Ring /Buckle 铁线扣
+Turn Locks 拧制
+Plastic Buckle 塑胶插扣
+Button 纽扣
+Handbag Side Clips 手袋侧夹
+Magnet Button 磁纽
+Press Button 珠纽
+Press Stud 纽扣
+Snap Button 急纽
+Rivet 钉
+Compression Rivet 束口钉
+Semi-Tublar Rivet 中空钉
+Full Tublar Rivet 空心钉
+Single Layer Rivet 单面撞钉
+Color 颜色
+Aubergine 紫红色
+Beige 米黄色
+Bone 米色
+Chrome/ Nickel 镍色
+Navy 海军蓝
+Pewter 沙电色
+Khaki 卡其色
+Cloth 布料
+Canvas 帆布
+Jacquard /Tapestry 提花布
+Ramie 麻
+Ripstop /Tartan 格子布
+Sponge 海绵
+Spun 山东绸
+Twill 斜布
+Zipper Cord 拉头上的棉绳
+Defects 瑕疵
+Baggy Cloth 波断纹
+Filling Bar 稀密路
+Mixed Filling 错纬
+Barre 横档
+Finishing Bar 横痕
+Neps 棉结
+Broken End 断线
+Float End 走经
+Oil Spots 油渍
+Broken Picks 断线
+Float 浮织
+Pleat 褶
+Coarse Picks 粗纬
+Fold Marks 褶痕
+Rope Marks 条痕
+Cockles 起皱
+Fuzzy Ball 毛球
+Slack Picks 松纬
+Color Spots 色渍
+Holes Sto破洞
+stop Mark 停机痕
+Crease 皱
+Loopy Selvedge 毛圈边
+Tight End 紧经
+
+
+### 辅件/部位
+
+- pack PE foam 發泡棉
+- handle webbing 織帶手挽
+- woven lable 布標
+- front panel/前片
+- flap of pocket袋盖
+- Printing artwork /印刷图
+- compartment 隔层
+- back panel后片
+- foam 发泡
+- sponge 海棉
+- inner pocket里袋
+- bottom 底部/bottom board底板
+- trolley 拉杆
+- handle手把
+- hook buckle 钩扣
+- buckle扣具
+- zipper拉链
+- zip puller拉头
+- webbing 织带
+- straps 肩带
+- woven label 织唛
+- piping胶骨
+- binding捆边
+- hangtag 挂牌
+- barcode sticker条形码不干胶
+- polybag塑料袋
+- reinforce panel 补强片
+- rivet 柳钉
+- net pocket 网袋
+- bottle 水瓶
+- logo 商标
+- rubber 橡胶
+- match color 配色
+- ribbon 尼龙丝带
+- embroidery 刺绣
+- yarn 线
+- mark 唛头
+- inner label 内标
+- carton 纸箱
+- packing 包装
+- pantone 色卡
+- Velcro 摩术贴
+- rope 绳子
+- stud 角钉
+- elastic 松紧带
+- padded 垫料
+- cardboard 纸板
+- Term about handbag front pocket 前附袋
+- outside body front 前幅
+- outside body back 后幅
+- outside bottom front 前附袋底
+- logo patch 飾片
+- embroidery 刺纋片
+- accessories 附屬的配件
+- slash pocket 開口袋
+- binding 包邊
+- lash 鞭梢
+- dome 圓頂層
+- stitching 車線
+- shoulder pad 肩片
+- single enttry 單開口
+- sling 吊袋
+- triple compartment 間隔
+- top stitching 面車線
+- bottom 底部
+- division 分部
+- handle webbing 織帶手挽
+- under neath 蓋底里
+- gusset 側圍
+- lining 里布
+- adjustable 可調節式的
+- seams 縫合線
+
+### 皮革
+
+- artificial leather 人造革
+- baseball leather 棒球革
+- basketball leather 篮球革
+- bellow leather 风箱革
+- belt leather 带皮
+- belting leather 带革，轮带
+- book-binding leather 书面革
+- bottom leather 底革
+- boxing-glove leather 拳击手套革
+- buck leather (雄)鹿革
+- buckle leather 带用革
+- buffed leather 磨面革
+- butt leather 底革
+- card leather 梳革
+- case leather 箱皮
+- charred leather 皮炭
+- chamois leather 麂皮
+- chrome leather 铬革
+- chrome tanned leather 铬鞣革
+- clothing leather 服装革
+- combination tanned leather 结合鞣制的革
+- combing leather 梳刷革
+- cow leather 牛皮
+- crown leather 上等皮革
+- crup leather 马臀革
+- crust leather 坯革;  半硝革
+- cup leather 制动缸皮碗
+- diaphragm leather 隔膜革[皮] dogskin leather 狗皮(制的)革
+- dressing leather饰革
+- drum leather 鼓皮
+- drycleanable leather 耐干洗革
+- easy-care leather 易保养革
+- embossed leather 压花革
+- enamel leather 漆皮
+- enamelled leather 漆皮
+- fair leather 集市皮革
+- fancy leather 美术革,  装饰用革
+- finished leather 成革;  整饰过的皮革
+- football leather 足球革
+- football-helmet leather 橄榄球头盔革
+- furniture leather 家具革
+- garment leather 衣服革
+- gas meter leather 气表革
+- glace leather 白鞣革
+- glove leather 手套皮
+- hair-on leather 带毛革
+- half leather半皮面装订,  半革装
+- harness leather 马具革
+- hat leather 制帽革
+- hat sweatband leather 帽圈革
+- heavy leather 厚革
+- heel leather (鞋)后跟皮
+- hunting leather 粗绒面革
+- hydraulic leather 水压机革(密封用革) 
+- imitation leather 充牛皮装订, 漆布装订, 人造革装订 
+- industrial leather 工业用革
+- iron tanned leather 铁鞣革
+- japanned leather 漆皮
+- kangaroo leather 袋鼠革
+- kaspine leather 开斯宾革
+- levant leather 皱纹革 ;  摩洛哥革
+- light leather 轻革
+- line leather 马具革
+- lining leather 衬里革
+- luggage leather 箱包革
+- mountain leather 石棉
+- napped leather 绒毛皮革
+- oar leather 桨革
+- oil seal leather 油封革
+- oiled leather 涂油革
+- oil-tanned leather 油鞣革
+- organ-pipe leather 风琴管革
+- packing leather 皮碗
+- paper based artificial leather 纸基人造革
+- patent leather 漆皮
+- patent leather 漆革
+- piano leather 钢琴革
+- piston packing leather 活塞填密皮
+- plated leather 熨压皮革
+- portmanteau leather 旅行皮包革
+- rein leather 马具革
+- rock leather 一种石棉
+- rolled leather 轧制革
+- roller leather 机轴革
+- rough-tanned leather 粗鞣革
+- rubbing leathers 【纺】搓条皮圈
+- Russia(n) leather 俄罗斯革
+- saddle leather 鞍皮 [ 革 ]
+- saffian leather 山羊革 ;  摩洛哥革
+- scrap leather 废皮 ;  碎皮
+- semi-aniline leather 半苯胺革
+- semi-chrome leather 混合铬鞣革
+- sheep leather( 绵) 羊革
+- shrink leather 皱纹革
+- skirt leather 植物鞣牛皮坯革
+- slick-surfaced leather 光面皮革
+- soccerballleather 足球革
+- softleather 软革
+- soleleather 底革
+- stirrup leather 镫革
+- strop leather 磨刀皮革
+- suede leather 起毛皮革
+- sweat band leather( 帽中) 汗带皮
+- synthetic leather 合成皮带
+- textile machinery leather 纺织机用革
+- tie and dye leather 扎染革
+- two-tone leather 双色调革
+- upholstery leather 装饰用皮革
+- upper leather 面革
+- valve leather 阀皮
+- vegetable tanned sole leather 植物鞣鞋底革
+- velvet leather 正绒面革
+- zirconium tanned leather 锆鞣革
+- volleyball leather 排球革
+- wash leather 可洗皮革
+- washable chamois leather 可洗麂皮
+- welting leather 镶边革;  贴边革
+- white leather 白革;  矾鞣革
+
 ### Other Vocabulary 其他生字
 
 - Abrasion 摩擦
@@ -416,52 +897,52 @@ category: 外贸
 
 ### Color
 
-- Sky-blue: 天蓝色
-- lime:淡黄绿色
-- olive:橄榄绿
-- jade:碧玉色
-- poppy:深红色
-- violet: 紫罗兰色
-- beige:米白色
-- scarlet:鲜红
-- golden:金色
-- navy-blue:海蓝
-- russet:赤褐色
-- khaki:卡其色
-- mustard:深黄色
+- Sky-blue 天蓝色
+- lime 淡黄绿色
+- olive 橄榄绿
+- jade 碧玉色
+- poppy 深红色
+- violet 紫罗兰色
+- beige 米白色
+- scarlet 鲜红
+- golden 金色
+- navy-blue 海蓝
+- russet 赤褐色
+- khaki 卡其色
+- mustard 深黄色
 - tan 茶色
-- bottle green:深绿色
-- cream:淡黄色
-- maroon:褐红色
+- bottle green 深绿色
+- cream 淡黄色
+- maroon 褐红色
 - royal blue宝蓝
-- turquoise:青绿色
-- emerald:祖母绿
-- peach:粉红色
+- turquoise 青绿色
+- emerald 祖母绿
+- peach 粉红色
 - burgundy：枣红
 - lemon柠檬色
-- tangerine:橘红色
-- apricot: 杏黄色
+- tangerine 橘红色
+- apricot 杏黄色
 - light gray;浅灰
 - roseate：深粉红色
-- magenta::红紫色
-- mauve: 淡紫色
-- lilac:紫丁香色
-- coffee:咖啡色
-- buff:暗黄色
-- aquamarine:碧绿色
-- yellow:黄色
-- orange:橙色
-- crimson:深红色
-- red:红色
+- magenta: 红紫色
+- mauve 淡紫色
+- lilac 紫丁香色
+- coffee 咖啡色
+- buff 暗黄色
+- aquamarine 碧绿色
+- yellow 黄色
+- orange 橙色
+- crimson 深红色
+- red 红色
 - blue蓝色
 - green绿色
-- pink:粉红色
+- pink 粉红色
 - purple：紫色
-- brown:棕色
-- gray:灰色
-- white:白色
-- fuchsia:紫红色
-- cyan:青色/蓝绿色
+- brown 棕色
+- gray 灰色
+- white 白色
+- fuchsia 紫红色
+- cyan 青色/蓝绿色
 - Aubergine 紫红色
 - Beige 米黄色
 - Bone 米色
@@ -531,6 +1012,121 @@ O.E.B plating 黃古銅(O.E.C)
 dark copper plating 紅古銅(DCP/P) 
 zinc plating 白鋅(Z/P) 
 copper plating 紅銅(CP/P)
+
+### 扣
+
+- snap hook US鉤
+- swivel hook 如意鉤
+- swivel snaphook 旋轉鉤
+- uviv snaphook 旋轉US鉤
+- key-ring 鎖匙圈
+- cord hook 繩鉤
+- small hook 小鉤
+- round 圈骨
+- SR buckle 插扣類
+- side release BK 旁開扣
+- dual SR/dual contourde SR 雙調旁開扣
+- side release BK 重型插扣
+- plated SR 電鍍插扣
+- release SR 反光插扣
+- contoured SR 彎型插扣
+- center SR/push 即開扣
+- lock SR 數碼鎖
+- turn lock 轉鎖
+- cam buckle 合扣
+- belt buckle 束衣扣
+- sliele&straplock 日型梯扣類
+- slide 日型環
+- small slide 八字環
+- slide+belt+loop 日型環+束帶圈
+- slide+loop 日型環+耳
+- ladder lock 梯扣
+- contour ladder lock 彎形梯扣
+- heavy ladder lock 強力梯扣
+- loop 長方圈
+- belt loop 束帶圈
+- sewable loop 可縫長方圈
+- D-ring D型環
+- triangle 三角環
+- six ring 六角環
+- o-ring o型環
+- sewable D-ring 可縫D型環
+- chate tab 塑片加圈
+- metal zippers with pullers 金屬拉鏈
+- metal slider with pull 金屬拉頭
+- delrin zippers with pulllers 塑鋼拉鏈
+- delrin slider with pull 塑鋼拉頭
+- nylon zippers with pulllers 尼龍拉鏈
+- nylon slider with pull 尼龍拉頭
+- zip tap 拉鏈布
+- puller with connecter 拉鏈
+- strap 帶,皮帶
+- metal ornament 金屬飾片
+- ornament 飾片
+- piping 管條
+- stopper 束扣
+- press button 按扣
+- brooch 別針
+- pin snap 走珠鈕
+- ticker 貼標
+- magnetic snap 磁扣
+- keyhook 匙圈
+- string ring beltstay 織帶拉環
+- cupula 吸盤
+- fastness-lock 固定手把扣
+- bradde chain 珠鏈
+- double rivet 撞釘
+- shell 框架
+- snap 厭扣
+- velcro 麼術貼
+
+### 布料
+
+- 420D ripstop: 420D格子布（300D 、600D ）
+- polyester 涤沦
+- nylon 尼龙
+- microfiber 花瑶布
+- transparent PVC 透明PVC  
+- semitransparent 磨沙 PVC  
+- 70D sponge: 70D 发泡
+- mesh/net 网布
+- 420D crinkle nylon: 420D 水洗布
+- 210T 190T  PE board: PE板
+- swatch 样品
+- cardboard 纸板
+- jean 牛仔布
+- fabric 布料
+- plastic 塑料
+- taslon 塔丝龙
+- tapestry 窗帘提花布
+- ripstop 格子布
+- Yarn or stitch line 线或车线
+- reflector 反光料
+- pong plush 乳馬紋毛毛料
+- ripstop 格子布
+- linen 亞麻料
+- twill 斜紋理布
+- microfiber 超細纖維料
+- plush 絨毛料
+- nylon taffeta 尼龍印花布
+- quilted panel 棉格料
+- satin 沙丁料
+- logan 宇富料
+- iridescent 珠光料
+- leopard skin point 天然豹紋
+- holegram 萬彩/雷射料
+- darkdenim 深色牛仔料
+- ragon 人造絲
+- heoprene 一种合成像膠
+- jute 黃麻纖維
+- split leather 貼合皮
+- laminate 貼膠料
+- nylon mesh 尼龍網布
+- jacquard 提花布
+- raw robber 生膠
+- reflectorvinyl 反光維倫料
+- velvet/velours 天鵝絨
+- swanskin 天鵝皮
 
 ## 工艺
 
@@ -659,612 +1255,6 @@ copper plating 紅銅(CP/P)
 - FEATHER STITCH 杨树花针法
 - ZIGZAG STITCH 花针法
 - SKIPPING STITCH 跳针法
-
-## 皮革
-
-- artificial leather 人造革
-- baseball leather 棒球革
-- basketball leather 篮球革
-- bellow leather 风箱革
-- belt leather 带皮
-- belting leather 带革，轮带
-- book-binding leather 书面革
-- bottom leather 底革
-- boxing-glove leather 拳击手套革
-- buck leather (雄)鹿革
-- buckle leather 带用革
-- buffed leather 磨面革
-- butt leather 底革
-- card leather 梳革
-- case leather 箱皮
-- charred leather 皮炭
-- chamois leather 麂皮
-- chrome leather 铬革
-- chrome tanned leather 铬鞣革
-- clothing leather 服装革
-- combination tanned leather 结合鞣制的革
-- combing leather 梳刷革
-- cow leather 牛皮
-- crown leather 上等皮革
-- crup leather 马臀革
-- crust leather 坯革;  半硝革
-- cup leather 制动缸皮碗
-- diaphragm leather 隔膜革[皮] dogskin leather 狗皮(制的)革
-- dressing leather饰革
-- drum leather 鼓皮
-- drycleanable leather 耐干洗革
-- easy-care leather 易保养革
-- embossed leather 压花革
-- enamel leather 漆皮
-- enamelled leather 漆皮
-- fair leather 集市皮革
-- fancy leather 美术革,  装饰用革
-- finished leather 成革;  整饰过的皮革
-- football leather 足球革
-- football-helmet leather 橄榄球头盔革
-- furniture leather 家具革
-- garment leather 衣服革
-- gas meter leather 气表革
-- glace leather 白鞣革
-- glove leather 手套皮
-- hair-on leather 带毛革
-- half leather半皮面装订,  半革装
-- harness leather 马具革
-- hat leather 制帽革
-- hat sweatband leather 帽圈革
-- heavy leather 厚革
-- heel leather (鞋)后跟皮
-- hunting leather 粗绒面革
-- hydraulic leather 水压机革(密封用革) 
-- imitation leather 充牛皮装订, 漆布装订, 人造革装订 
-- industrial leather 工业用革
-- iron tanned leather 铁鞣革
-- japanned leather 漆皮
-- kangaroo leather 袋鼠革
-- kaspine leather 开斯宾革
-- levant leather 皱纹革 ;  摩洛哥革
-- light leather 轻革
-- line leather 马具革
-- lining leather 衬里革
-- luggage leather 箱包革
-- mountain leather 石棉
-- napped leather 绒毛皮革
-- oar leather 桨革
-- oil seal leather 油封革
-- oiled leather 涂油革
-- oil-tanned leather 油鞣革
-- organ-pipe leather 风琴管革
-- packing leather 皮碗
-- paper based artificial leather 纸基人造革
-- patent leather 漆皮
-- patent leather 漆革
-- piano leather 钢琴革
-- piston packing leather 活塞填密皮
-- plated leather 熨压皮革
-- portmanteau leather 旅行皮包革
-- rein leather 马具革
-- rock leather 一种石棉
-- rolled leather 轧制革
-- roller leather 机轴革
-- rough-tanned leather 粗鞣革
-- rubbing leathers 【纺】搓条皮圈
-- Russia(n) leather 俄罗斯革
-- saddle leather 鞍皮 [ 革 ]
-- saffian leather 山羊革 ;  摩洛哥革
-- scrap leather 废皮 ;  碎皮
-- semi-aniline leather 半苯胺革
-- semi-chrome leather 混合铬鞣革
-- sheep leather( 绵) 羊革
-- shrink leather 皱纹革
-- skirt leather 植物鞣牛皮坯革
-- slick-surfaced leather 光面皮革
-- soccerballleather 足球革
-- softleather 软革
-- soleleather 底革
-- stirrup leather 镫革
-- strop leather 磨刀皮革
-- suede leather 起毛皮革
-- sweat band leather( 帽中) 汗带皮
-- synthetic leather 合成皮带
-- textile machinery leather 纺织机用革
-- tie and dye leather 扎染革
-- two-tone leather 双色调革
-- upholstery leather 装饰用皮革
-- upper leather 面革
-- valve leather 阀皮
-- vegetable tanned sole leather 植物鞣鞋底革
-- velvet leather 正绒面革
-- zirconium tanned leather 锆鞣革
-- volleyball leather 排球革
-- wash leather 可洗皮革
-- washable chamois leather 可洗麂皮
-- welting leather 镶边革;  贴边革
-- white leather 白革;  矾鞣革
-
-## 原料
-
-- textile raw materials 纺织原料
-- natural fibre 天然纤维
-- chemical fibre 化学纤维
-- vegetable fibre 植物纤维
-- textile fibre 纺织纤维
-- man made fibre 人造纤维
-- animal fibre     动物纤维
-
-## 面料
-
-### 机织物服装面料
-
-- plain cloth 平纹布
-- oxford 牛津布
-- drill 斜纹布
-- ply-yarn drill 线卡
-- serge 哔叽
-- corduroy 灯芯绒
-- fleece 起绒布
-- seersucker 泡泡纱
-- hair cords 麻纱
-- linen cloth 亚麻布
-- silk 绸
-- woolen cloth 粗纺毛织物
-- woolen one-side gabardine 全毛单面华达呢
-- valitine 凡立丁
-- twill coating 啥味呢
-- worsted fany suiting 精纺花呢
-- flannel 法兰绒
-- overcoat suiting 大衣呢
-- mixed fabric 交织物
-- poplin 府绸
-- chambray 青年布
-- single yarn drill 纱卡
-- gabardine 华达呢
-- denim 牛仔布
-- velveteen 平绒
-- crepe 绉布
-- voile 巴厘纱
-- ramie fabric 苎麻布
-- habotai 电力纺
-- worsted fabric 精纺毛织物
-- pure wool gabardine 全毛华达呢
-- doeskin 驼丝锦
-- ladies cloth 女士呢
-- tweed  粗花呢
-
-### 针织物面料
-
-- weft-knitted fabric 纬编针织物
-- single knit fabric 单面针织物
-- plain knit fabric 纬平针织物
-- interlock fabric 双罗纹针织物
-- interlock fabric 起绒针织物
-- terry knitted fabric 毛圈针织物
-- two-bar fabric 双梳栉经编针织物
-- warp-knitted fabric 经编针织物
-- double knit fabric 双面针织物
-- rib knit fabric 罗纹针织物
-- purl fabric 双反面针织物
-- high pile knitted fabric 长毛绒针织物
-- jacquard knitted fabric 提花针织物
-- multi-bar fabric 多梳栉经编针织物
-
-## 辅料
-
-### 衬
-
-- resin interlining 树脂衬
-- breast canvas 麻布胸衬
-- resin collar interlining 树脂领衬
-- breast fleece 绒布胸衬
-- fusible interlining 热熔衬
-- adhesive-bonded interlining 粘合衬
-- double-faced adhesive interlining 双面粘合衬
-- non-woven interlining 无纺布衬
-- non-woven adhesive interlining 无纺粘合衬
-- adhesive woreninterlinging 有纺粘合衬
-- hair interlining 黑炭衬
-- horsehair interlining 马尾衬
-- chemical fibre interlining 化纤衬
-- knitted interlining  针织衬
-
-### 填料
-
-- cotton 棉花
-- artificial cotton 人造棉
-- polyester wadding 喷胶棉
-- silk wadding 丝棉
-- acrylic staple fibre 腈纶棉
-- down 羽绒
-
-## 线、扣、拉链
-
-- thread 线
-- cotton thread 棉线
-- silk thread 丝线
-- nylon thread 尼龙线
-- ornamental thread 装饰线
-- button 钮
-- four-hole button 四目扣
-- decorative button 装饰纽扣
-- special-shaped button 异形扣
-- plastic button 塑料扣
-- glass button 玻璃扣
-- snap button 子母扣，四合扣
-- zipper 拉链
-- nylon zipper 尼龙拉链
-- polyester zipper 涤纶拉链
-- zipper with double sliders 双头拉链
-- fashion tape 装饰带
-- rib 罗纹
-- twist 缝纫用线
-- flax thread 麻线
-- embroidery thread 绣花线
-- polyester thread 涤纶线
-- cone of thread 宝塔线
-- two-hole button 两目扣
-- covered button 包扣
-- claw button 羊角扣
-- metal button 金属扣
-- resin button 树脂扣
-- wood button 木扣
-- nylon fastener tape 尼龙搭扣
-- metal zipper 金属拉链
-- plastic zipper 塑料拉链
-- collar clasp 领钩
-- agraffe 搭钩
-- elastic ribbon 橡筋
-- elastic rib  弹力罗纹
- 
-## 手袋箱包术语
-
-- Bags/Case Name 袋/箱包名称 
-- Beauty Case 化妆袋
-- Briefcase 公文袋
-- Cabin Case 航空袋
-- Camera Bag 相机袋
-- Duffle /Travel bag 旅行袋
-- Flight Bag /Tote 航空袋
-- Garment Bag 西装袋
-- Simple Notebook Bag 简单电脑袋
-- Toilet Kit 洗手间袋
-- Travel Bag with Trolley 拖轮袋
-- Trolley /Uprights 拉杆箱
-- Trolley Backpack 拉杆背包
-- Waist Bag 腰包 
-- Handbag 手提包
-
-## Material 原料
-
-- Binding Material 包边用料
-- Cord for Cord-Handles 手把索
-- Brushed Nylon for Computer Cases 拉过绒的尼龙用在电脑箱
-- Cardboard Bottom Boards 纸底板
-- Dobbie Weave 交织
-- Cord for Cord-Locks 锁索
-- Dividers & Separators’
-- material 分隔面料
-- Elastics 松紧带
-- Foams 海绵
-- Insulating Materials 绝缘物料
-- Leather Trim 真皮配料
-- Linings 内里
-- Main Coated materials 主要外层面料
-- Mesh /Other type of Tissue 网布/纱布
-- Piping Bumpers 管条脚座
-- Piping Materials 管条
-- Plywood Bottom Boards 底部胶合板（木板/三合板）、
-- Polyethylene for Corners /Backing 角位/底部面料
-- Polyvinyl(PVC)Sponge Trim PVC海绵配料
-- Thread 车线
-- Velcro 幺术贴
-- Webbing 织带
-- Zipper Pulls 拉片
-- Zipper Sliders 拉链头
-- Zipper Tapers 拉链
-- Structural Hardware 金属结构
-- Accessory Hook 前拖带
-- Rivets & Washers 铆钉和垫圈
-- Alligator Studs 短钉
-- Runners 背面长条
-- Bottom Stand 前脚
-- Screws 螺丝
-- Bottom Studs 底钉
-- Shoulder Strap 肩带
-- Complete Extendable Handle System 拉杆架
-- Side Handle 侧手把
-- Conveyor Belt 运轮带
-- Snaps 纽扣/四合扣
-- Extendible Handles’
-- Parts /Mechanisms 伸缩拉杆配件/结构
-- Grommets 垫圈
-- Studs (Side Studs )大头钉（侧泡钉）
-- Handle with brackets 手把连扣
-- Top Carrying Handle 主手把
-- Honeycomb Sample 蜂巢板
-- Wheel Casings 轮子的盖
-- Handle Wrap 手握片
-- Wheels and base 拉杆箱轮子连底座
-- Metal Frame Sample 铁框
-- Polyethylene Board Samples ---PE板
-- Rings /Other Metal Parts 金属环/其它金属配件
-
-### Accessories 配件
-
-Badge /Emblem 徽章，象征，标志
-Buckles 插扣
-Chains 缝条/链
-Cord-Locks (Toggle-Locks ,Barrel-Locks ) s锁（套索锁，桶锁）
-Hanger  Hooks  &  Mechanisms  for  Swing-Hooks 挂钩和摇摆钩
-Hooks 勾
-Lid 盖
-Luggage Identification Tags 行李箱地址牌
-Nameplate 商标/Logo /铝牌
-Strap 背带
-Outside Hanger Hooks for Garment Bags 供西装袋用的勾（衣架）
-Padlocks & Keys 锁和钥匙
-Plastic Water Bottles 塑胶水桶钉
-Swivel Hanger bracket 旋转衣架座
-Universal Hanger Hooks 整体挂勾
-Labels 标签
-Guarantee Carton Tags 保证吊牌
-Inside Country of Origin Label 内布标
-Other Required Tag 其它要求的吊牌
-Product Knowledge Carton Tags 产品吊牌
-Tear-Me Test Tags 本布吊牌
-UPC Tag –UPC吊牌
-Buckle/Lock扣或锁
-Belt Buckle 皮带扣
-Press Locks 插锁
-Metal Pin Buckle 铁线针扣
-Snap Fastener 四合扣
-Metal Ring /Buckle 铁线扣
-Turn Locks 拧制
-Plastic Buckle 塑胶插扣
-Button 纽扣
-Handbag Side Clips 手袋侧夹
-Magnet Button 磁纽
-Press Button 珠纽
-Press Stud 纽扣
-Snap Button 急纽
-Rivet 钉
-Compression Rivet 束口钉
-Semi-Tublar Rivet 中空钉
-Full Tublar Rivet 空心钉
-Single Layer Rivet 单面撞钉
-Color 颜色
-Aubergine 紫红色
-Beige 米黄色
-Bone 米色
-Chrome/ Nickel 镍色
-Navy 海军蓝
-Pewter 沙电色
-Khaki 卡其色
-Cloth 布料
-Canvas 帆布
-Jacquard /Tapestry 提花布
-Ramie 麻
-Ripstop /Tartan 格子布
-Sponge 海绵
-Spun 山东绸
-Twill 斜布
-Zipper Cord 拉头上的棉绳
-Defects 瑕疵
-Baggy Cloth 波断纹
-Filling Bar 稀密路
-Mixed Filling 错纬
-Barre 横档
-Finishing Bar 横痕
-Neps 棉结
-Broken End 断线
-Float End 走经
-Oil Spots 油渍
-Broken Picks 断线
-Float 浮织
-Pleat 褶
-Coarse Picks 粗纬
-Fold Marks 褶痕
-Rope Marks 条痕
-Cockles 起皱
-Fuzzy Ball 毛球
-Slack Picks 松纬
-Color Spots 色渍
-Holes Sto破洞
-stop Mark 停机痕
-Crease 皱
-Loopy Selvedge 毛圈边
-Tight End 紧经
-
-
-### 辅件/部位
-
-pack PE foam 發泡棉
-handle webbing 織帶手挽
-woven lable 布標
-front panel/前片
-flap of pocket袋盖
-Printing artwork /印刷图
-compartment: 隔层
-back panel后片
-foam 发泡
-sponge 海棉
-inner pocket里袋
-bottom 底部/bottom board底板
-trolley 拉杆
-handle手把
-hook buckle 钩扣
-buckle扣具
-zipper拉链
-zip puller拉头
-webbing 织带
-straps 肩带
-woven label: 织唛
-piping胶骨
-binding捆边
-hangtag:挂牌
-barcode sticker条形码不干胶
-polybag塑料袋
-reinforce panel: 补强片
-rivet: 柳钉
-net pocket: 网袋
-bottle: 水瓶
-logo: 商标
-rubber: 橡胶
-match color: 配色
-ribbon: 尼龙丝带
-embroidery: 刺绣
-yarn: 线
-mark: 唛头
-inner label 内标
-carton: 纸箱
-packing: 包装
-pantone: 色卡
-Velcro: 摩术贴
-rope: 绳子
-stud: 角钉
-elastic: 松紧带
-padded: 垫料
-cardboard: 纸板
-Term about handbag front pocket 前附袋
-outside body front 前幅
-outside body back 后幅
-outside bottom front 前附袋底
-logo patch 飾片
-embroidery 刺纋片
-accessories 附屬的配件
-slash pocket 開口袋
-binding 包邊
-lash 鞭梢
-dome 圓頂層
-stitching 車線
-shoulder pad 肩片
-single enttry 單開口
-sling 吊袋
-triple compartment 間隔
-top stitching 面車線
-bottom 底部
-division 分部
-handle webbing 織帶手挽
-under neath 蓋底里
-gusset 側圍
-lining 里布
-adjustable 可調節式的
-seams 縫合線
-
-## 扣子圈子 环 拉链
-
-### 鉤扣類:
-
-- snap hook US鉤
-- swivel hook 如意鉤
-- swivel snaphook 旋轉鉤
-- uviv snaphook 旋轉US鉤
-- key-ring 鎖匙圈
-- cord hook 繩鉤
-- small hook 小鉤
-- round 圈骨
-- SR buckle 插扣類
-- side release BK 旁開扣
-- dual SR/dual contourde SR 雙調旁開扣
-- side release BK 重型插扣
-- plated SR 電鍍插扣
-- release SR 反光插扣
-- contoured SR 彎型插扣
-- center SR/push 即開扣
-- lock SR 數碼鎖
-- turn lock 轉鎖
-- cam buckle 合扣
-- belt buckle 束衣扣
-- sliele&straplock 日型梯扣類
-- slide 日型環
-- small slide 八字環
-- slide+belt+loop 日型環+束帶圈
-- slide+loop 日型環+耳
-- ladder lock 梯扣
-- contour ladder lock 彎形梯扣
-- heavy ladder lock 強力梯扣
-- loop 長方圈
-- belt loop 束帶圈
-- sewable loop 可縫長方圈
-- D-ring D型環
-- triangle 三角環
-- six ring 六角環
-- o-ring o型環
-- sewable D-ring 可縫D型環
-- chate tab 塑片加圈
-- metal zippers with pullers 金屬拉鏈
-- metal slider with pull 金屬拉頭
-- delrin zippers with pulllers 塑鋼拉鏈
-- delrin slider with pull 塑鋼拉頭
-- nylon zippers with pulllers 尼龍拉鏈
-- nylon slider with pull 尼龍拉頭
-- zip tap 拉鏈布
-- puller with connecter 拉鏈
-- strap 帶,皮帶
-- metal ornament 金屬飾片
-- ornament 飾片
-- piping 管條
-- stopper 束扣
-- press button 按扣
-- brooch 別針
-- pin snap 走珠鈕
-- ticker 貼標
-- magnetic snap 磁扣
-- keyhook 匙圈
-- string ring beltstay 織帶拉環
-- cupula 吸盤
-- fastness-lock 固定手把扣
-- bradde chain 珠鏈
-- double rivet 撞釘
-- shell 框架
-- snap 厭扣
-- velcro 麼術貼
-
-## 布料
-
-- 420D ripstop: 420D格子布（300D 、600D ）
-- polyester: 涤沦
-- nylon: 尼龙
-- microfiber: 花瑶布
-- transparent PVC: 透明PVC  
-- semitransparent: 磨沙 PVC  
-- 70D sponge: 70D 发泡
-- mesh/net: 网布
-- 420D crinkle nylon: 420D 水洗布
-- 210T 190T  PE board: PE板
-- swatch: 样品
-- cardboard: 纸板
-- jean: 牛仔布
-- fabric: 布料
-- plastic: 塑料
-- taslon: 塔丝龙
-- tapestry: 窗帘提花布
-- ripstop: 格子布
-- Yarn or stitch line: 线或车线
-- reflector 反光料
-- pong plush 乳馬紋毛毛料
-- ripstop 格子布
-- linen 亞麻料
-- twill 斜紋理布
-- microfiber 超細纖維料
-- plush 絨毛料
-- nylon taffeta 尼龍印花布
-- quilted panel 棉格料
-- satin 沙丁料
-- logan 宇富料
-- iridescent 珠光料
-- leopard skin point 天然豹紋
-- holegram 萬彩/雷射料
-- darkdenim 深色牛仔料
-- ragon 人造絲
-- heoprene 一种合成像膠
-- jute 黃麻纖維
-- split leather 貼合皮
-- laminate 貼膠料
-- nylon mesh 尼龍網布
-- jacquard 提花布
-- raw robber 生膠
-- reflectorvinyl 反光維倫料
-- velvet/velours 天鵝絨
-- swanskin 天鵝皮
 
 ## 其他
 
