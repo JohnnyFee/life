@@ -5,62 +5,56 @@ category: 外贸
 ## Bags/Case Name 袋/箱包名称
 
 Backpack 背包
-Backpack 背包 
 Beauty Case 化妆袋
-Beauty Case 化妆袋
-Briefcase 公文包
-Briefcase 公文袋
+Briefcase 公文包/公文袋
 Cabin Case 航空袋
 Camera Bag 相机袋
 Computer Backpack 電腦背包
 Cosmetic Bag 化妝包
 Duffle/Travel Bag 旅行袋
-Flight Bag /Air Travelling Roller Bag 航空旅行箱 
+Flight Bag /Air Travelling Roller Bag 航空旅行箱
 Flight Bag/Tote 航空袋
 Garment Bag 西装袋
 Garment Bag 西裝套
 Golfbag 高爾夫袋
 Hand Bag 手袋
 Handbag 手提包
-Lady Bag 女士包 
+Lady Bag 女士包
 Luggage Upright 拉杆箱
-Natural Tan 自然包 
+Natural Tan 自然包
 Note Case 公文袋
-Pencil Case 笔袋 
+Pencil Case 笔袋
 Pouch 小袋
-Pouch(Wallet) 钱包 
+Pouch(Wallet) 钱包
 Pull Rod For Flight Bag 航空旅行拉杆
 Purse 女用包
 Satchel 小背包
-Shoulder Bags肩包 
+Shoulder Bags肩包
 Simple Notebook Bag 简单电脑袋
 Slg 小包
 Soft Attache Case 手提箱
 Sport Bag 運動包
 Swagger Bag 休閑包
 Toilet Kit 洗手间袋
-Tote Bag：大手提袋 
-Tote 手提袋 
+Tote Bag：大手提袋
+Tote 手提袋
 Travel Bag With Trolley 拖轮袋
 Travel Kit 換洗袋/旅行工具袋
 Travel Suitcase 旅行箱
-Traveling Bags 旅行包 
+Traveling Bags 旅行包
 Trolley Backpack 拉杆背包
 Trolley/Uprights 拉杆箱
-Waist Bag 腰包
-Waist Bag 腰包 
-Waist Pack 腰包
+Waist Pack/Bag 腰包
 
 ## Material 原料
 
 Binding Material 包边用料
 Cord for Cord-Handles 手把索
-Brushed Nylon for Computer Cases 拉过绒的尼龙用在电脑箱
+Brushed Nylon for Computer Cases 拉过绒的尼龙(用在电脑箱)
 Cardboard Bottom Boards 纸底板
 Dobbie Weave 交织
 Cord for Cord-Locks 锁索
-Dividers & Separators’
-material 分隔面料
+Dividers & Separators’material 分隔面料
 Elastics 松紧带
 Foams 海绵
 Insulating Materials 绝缘物料
@@ -114,7 +108,7 @@ Hanger Hooks & Mechanisms for Swing-Hooks 挂钩和摇摆钩
 Hooks 勾
 Lid 盖
 Luggage Identification Tags 行李箱地址牌
-Nameplate 商标/Logo /铝牌
+Nameplate 商标/Logo/铝牌
 Strap 背带
 Outside Hanger Hooks for Garment Bags 供西装袋用的勾（衣架）
 Padlocks & Keys 锁和钥匙
@@ -166,12 +160,12 @@ mark 唛头
 printing 印刷
 inner laber 内标
 hangtag 挂牌
-carton;纸箱
+carton 纸箱
 packing 包装
 pantone 色卡
 velcro 麾术贴
 Piping 胶骨
-binding包边
+binding 包边
 embroidery 绣花
 hanger 衣架
 back stitch 回针
@@ -207,11 +201,11 @@ pipping cord 衬条
 Semitransparent 磨沙  PVC 70Dsponge:70发泡
 mesh / net  网布
 rope 绳子
-interior:/outer 内/外部  
+interior:/outer 内/外部
 layer 层
 indigo chambray 靛蓝青年布
 rayon cloth flocking   人棉布植绒
-pvc flocking pvc 植绒 
+pvc flocking pvc 植绒
 knitting cloth flocking 针织布植绒
 claimond veins 珠粒绒
 down pile making 倒毛
@@ -330,18 +324,14 @@ Wheels and base 拉杆箱轮子连底座
 Metal Frame Sample 铁框
 Polyethylene Board Samples  PE板
 Rings /Other Metal Parts 金属环/其它金属配件
-
 ### Labels 标签
-
 Guarantee Carton Tags 保证吊牌
 Inside Country of Origin Label 内布标
 Other Required Tag 其它要求的吊牌
 Product Knowledge Carton Tags 产品吊牌
 Tear-Me Test Tags 本布吊牌
 UPC Tag –UPC吊牌
-
 ### Buckle/Lock 扣或锁
-
 Belt Buckle 皮带扣
 Press Locks 插锁
 Metal Pin Buckle 铁线针扣
@@ -355,16 +345,12 @@ Magnet Button 磁纽
 Press Button 珠纽
 Press Stud 纽扣
 Snap Button 急纽
-
 ###  Rivet 钉
-
 Compression Rivet 束口钉
 Semi-Tublar Rivet 中空钉
 Full Tublar Rivet 空心钉
 Single Layer Rivet 单面撞钉
-
 ### Cloth 布料
-
 Canvas 帆布
 Jacquard /Tapestry 提花布
 Ramie 麻
@@ -407,20 +393,15 @@ Water Stain 水印
 Dyeing Streak 染褶
 Mix End 错经
 Wavy Selvedge 浪边
-
 ### textile raw materials 纺织原料
-
 natural fibre 天然纤维
 chemical fibre 化学纤维
 vegetable fibre 植物纤维
 textile fibre 纺织纤维
 man made fibre 人造纤维
 animal fibre     动物纤维
-
 ### 面料
-
 #### 机织物服装面料
-
 plain cloth 平纹布
 oxford 牛津布
 drill 斜纹布
@@ -455,9 +436,7 @@ pure wool gabardine 全毛华达呢
 doeskin 驼丝锦
 ladies cloth 女士呢
 tweed  粗花呢
-
 #### 针织物面料
-
 weft-knitted fabric 纬编针织物
 single knit fabric 单面针织物
 plain knit fabric 纬平针织物
@@ -472,11 +451,8 @@ purl fabric 双反面针织物
 high pile knitted fabric 长毛绒针织物
 jacquard knitted fabric 提花针织物
 multi-bar fabric 多梳栉经编针织物
-
 ### 辅料
-
 #### 衬
-
 resin interlining 树脂衬
 breast canvas 麻布胸衬
 resin collar interlining 树脂领衬
@@ -491,18 +467,14 @@ hair interlining 黑炭衬
 horsehair interlining 马尾衬
 chemical fibre interlining 化纤衬
 knitted interlining  针织衬
-
 #### 填料
-
 cotton 棉花
 artificial cotton 人造棉
 polyester wadding 喷胶棉
 silk wadding 丝棉
 acrylic staple fibre 腈纶棉
 down 羽绒
-
 #### 线、扣、拉链
-
 thread 线
 cotton thread 棉线
 silk thread 丝线
@@ -539,9 +511,7 @@ collar clasp 领钩
 agraffe 搭钩
 elastic ribbon 橡筋
 elastic rib  弹力罗纹
-
 ### Accessories 配件
-
 Badge /Emblem 徽章，象征，标志
 Buckles 插扣
 Chains 缝条/链
@@ -625,10 +595,7 @@ stop Mark 停机痕
 Crease 皱
 Loopy Selvedge 毛圈边
 Tight End 紧经
-
-
 ### 辅件/部位
-
 pack PE foam 發泡棉
 handle webbing 織帶手挽
 woven lable 布標
@@ -701,9 +668,7 @@ gusset 側圍
 lining 里布
 adjustable 可調節式的
 seams 縫合線
-
 ### 皮革
-
 artificial leather 人造革
 baseball leather 棒球革
 basketball leather 篮球革
@@ -757,8 +722,8 @@ hat sweatband leather 帽圈革
 heavy leather 厚革
 heel leather (鞋)后跟皮
 hunting leather 粗绒面革
-hydraulic leather 水压机革(密封用革) 
-imitation leather 充牛皮装订, 漆布装订, 人造革装订 
+hydraulic leather 水压机革(密封用革)
+imitation leather 充牛皮装订, 漆布装订, 人造革装订
 industrial leather 工业用革
 iron tanned leather 铁鞣革
 japanned leather 漆皮
@@ -822,9 +787,7 @@ wash leather 可洗皮革
 washable chamois leather 可洗麂皮
 welting leather 镶边革;  贴边革
 white leather 白革;  矾鞣革
-
 ### Other Vocabulary 其他生字
-
 Abrasion 摩擦
 Bent 弯曲
 Crooked 歪
@@ -881,9 +844,7 @@ zip-away 拉链袋
 handle ring 手把环
 Clear PVC 透明PVC kohis sticker 贴纸
 stuffing material 塞物料
-
 ### Color
-
 Sky-blue 天蓝色
 lime 淡黄绿色
 olive 橄榄绿
@@ -961,9 +922,7 @@ teal 藍綠色的
 color swatch 色卡
 pantone 國際色卡
 olive green 橄欖綠
-
 ### 五金顏色
-
 black nickel (B) 黑鎳色
 chrome (CR)鉻色
 brass plated 青銅色
@@ -978,30 +937,28 @@ nickel 鎳色
 matt pearl paint 烤霧黑
 finishing 五金表面處理
 plating 電鍍/噴鍍
-eleetro painting 電著涂裝(E/P) 
-black nickel plating 黑鎳(B-N/P) 
-anti silver plating 黑古銀(ANT-S) 
-satin gold plating 沙電金(SG/P) 
-gold plating 正金(G/P) 
-nickel plating 鎳(N/P) 
-chromium plating 鉻(CR/P) 
-satin nickel plating 沙電(SN/P) 
-nickel free plating 無鉛電鍍(NF/P) 
-gun metal plating 槍管色(GM/P) 
+eleetro painting 電著涂裝(E/P)
+black nickel plating 黑鎳(B-N/P)
+anti silver plating 黑古銀(ANT-S)
+satin gold plating 沙電金(SG/P)
+gold plating 正金(G/P)
+nickel plating 鎳(N/P)
+chromium plating 鉻(CR/P)
+satin nickel plating 沙電(SN/P)
+nickel free plating 無鉛電鍍(NF/P)
+gun metal plating 槍管色(GM/P)
 brass gold 銅金色
 black enamel 黑漆
-tin plating 鋁銀(T/P) 
-brass plating 青銅(B/P) 
-silver plating 純銀(S/P) 
-print 印色(P/A)  
-antique brass plating 青古銅(ANT-B) 
-O.E.B plating 黃古銅(O.E.C) 
-dark copper plating 紅古銅(DCP/P) 
-zinc plating 白鋅(Z/P) 
+tin plating 鋁銀(T/P)
+brass plating 青銅(B/P)
+silver plating 純銀(S/P)
+print 印色(P/A)
+antique brass plating 青古銅(ANT-B)
+O.E.B plating 黃古銅(O.E.C)
+dark copper plating 紅古銅(DCP/P)
+zinc plating 白鋅(Z/P)
 copper plating 紅銅(CP/P)
-
 ### 扣
-
 snap hook US鉤
 swivel hook 如意鉤
 swivel snaphook 旋轉鉤
@@ -1066,15 +1023,13 @@ double rivet 撞釘
 shell 框架
 snap 厭扣
 velcro 麼術貼
-
 ### 布料
-
 420D ripstop: 420D格子布（300D 、600D ）
 polyester 涤沦
 nylon 尼龙
 microfiber 花瑶布
-transparent PVC 透明PVC  
-semitransparent 磨沙 PVC  
+transparent PVC 透明PVC
+semitransparent 磨沙 PVC
 70D sponge: 70D 发泡
 mesh/net 网布
 420D crinkle nylon: 420D 水洗布
@@ -1114,11 +1069,8 @@ raw robber 生膠
 reflectorvinyl 反光維倫料
 velvet/velours 天鵝絨
 swanskin 天鵝皮
-
 ## 工艺
-
 ### Machine
-
 CUTTING BED 裁床
 EMBROIDERING M/C 绣花机
 STRAIGHT KNIFE M/C 直刀电剪
@@ -1163,9 +1115,7 @@ AUTO CUFF TURNING M/C 自动反介英机
 HEAT NOTCHING M/C 点领机
 COLLARTRIMMING M/C 切领机
 PLACKET TRIMMING M/C 切筒机
-
 ### 线迹 STITCH
-
 PLAIN STITCH ,FLAT STITCH 平缝线迹
 BASTING STITCH ,TACKING STITCH 疏缝线迹
 COVERING STITCH ,FLAT -LOCK STITCH 绷缝线迹
@@ -1224,9 +1174,7 @@ ABUTTING STITCH 拼合线迹
 BROKEN STITCH 间断线迹
 SKIPPING STITCH 跳针线迹
 SAFETY STITCH  安全线迹
-
 ### 手针缝法
-
 SLIP STITCH 缭针法
 PRICK STITCH 拱针法
 FELL STITCH 明缲针法
@@ -1242,9 +1190,7 @@ HERRINGBONE STITCH  三角针法
 FEATHER STITCH 杨树花针法
 ZIGZAG STITCH 花针法
 SKIPPING STITCH 跳针法
-
 ## 其他
-
 screen print/silkscreen/heat transfer 丝印
 dyeing 染色
 printing house/factory 印刷厂
@@ -1309,5 +1255,4 @@ cart outside setting 外置式拉杆
 cart inside setting 內置式拉杆
 footstand 腳座
 hand fell 手感
-
 See [箱包英语专业术语_百度文库](http://wenku.baidu.com/view/b1f7cf06eff9aef8941e06c5.html)
