@@ -25,7 +25,7 @@ tags: [iching, philosophy]
   57．巽卦：xùn    		|58．兑卦：duì    		|59．涣卦：huàn    	|60．节卦：jié    
   61．中孚卦：zhōng fú  |62．小过卦：xiǎo guò	|63．既济卦：jì jì  | 64．未济卦：wèi jì 
 
-<!--more-->
+<!-- more -->
 
 ## 六十四卦卦名次序歌
 

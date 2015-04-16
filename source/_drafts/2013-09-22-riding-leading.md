@@ -18,7 +18,7 @@ tags: [riding]
 
 ![障碍](http://lifeimages.qiniudn.com/riding/big-obstacle.jpg)
 
-<!--more-->
+<!-- more -->
 
 ### 躲避小障碍物
 右手食指斜伸指向右侧地面某一具体位置。表示该位置有碎石、玻璃或坑洼，提醒大家避免从该处通过，左手反之。

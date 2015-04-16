@@ -8,7 +8,7 @@ tags: [etiquette]
 
 On Chinese Banquets, Timing is Everything. Guests should arrive on time. Punctuality[,pʌŋktjʊ'ælɪtɪ,严守时间] is a virtue['vɜːtjuː] in China. Banquets and business meetings are scheduled to start and finish on time, and the Western concept of “fashionably late” is not understood. If an event is scheduled to begin at 6:00 pm, for example, then arrive a few minutes early or at 6:00 pm sharp. To arrive later would be considered rude(无礼的). Just as they start on time, banquets also end on time. If a banquet is scheduled to end at 8:30 pm, the host should stand up and close the event at 8:30 pm sharp. It is considered rude to stay late or keep others at the banquet or meeting past the designated ending time.
 
-<!--more-->
+<!-- more -->
 
 ## Banquets Structure
 
