@@ -120,6 +120,8 @@ category： Trade
 
     > Could you please help to  give me reply today?
 
+### 示例
+
 示例 1，以下是一个巴西的贸易公司写给陌生的美国公司的开发信：
 
 > Hey guy：
