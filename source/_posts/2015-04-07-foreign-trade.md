@@ -17,6 +17,10 @@ category： Trade
 
 - 兰亭
 - DX
+- EBay
+- Aliexpress
+- Amazon
+- Wish
 
 ### 被动
 
