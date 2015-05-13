@@ -11,6 +11,12 @@ category： Trade
 - 搜索引擎
 - 公司旧资源
 - 展会
+- MadeInChina
+
+## B2C
+
+- 兰亭
+- DX
 
 ### 被动
 
