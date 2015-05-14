@@ -3,6 +3,18 @@ title： "外贸成交技巧"
 category： Trade
 ---
 
+## 网站
+
+Ref <www.rambotech.com>
+
+See [米课学员网站案例分析之Rambotech](http://www.mrhua.net/2014/05/imiker-vips-website-rambotech/)
+
+排名：Alexa
+
+### 视频
+
+See [谷歌广告做视频营销推广，谷歌广告新用法！](http://www.mrhua.net/2014/02/video-marketing/)
+
 ## 引流方法
 
 ### 主动
@@ -16,6 +28,21 @@ category： Trade
 
 - Alibaba
 - Global Sources
+- MadeInChina
+
+## B2C
+
+- 兰亭
+- DX
+- EBay
+- Aliexpress
+- Wish
+
+### Amazon
+
+See [米课亚马逊课程全部实操已经上线](http://www.mrhua.net/2014/07/amazon-series-lessons/)
+
+**米课贡献一节亚马逊实操试听课程**：http://www.imiker.com/friends-series/amazon.html 或[直接点击这里](http://www.imiker.com/friends-series/amazon.html "亚马逊试听课程")！
 
 ## 外贸公司职位
 
