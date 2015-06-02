@@ -10,8 +10,11 @@ category： English
 - How do you stay in shape?   您如何保持身体健康？
 - How do you stay healthy?
 - How often do you exercise? 
-- How do you do it? 您如何锻炼？
-- You look great. What's your secret?
+- How do you do it? 您如何锻炼？ / You look great. What's your secret?
+- How are you feeling (today)?
+- Any other sympthons(症状)?
+- What's the problem? / What's wrong? / What's the matter? / What's happening? / What's going on?
+- Where does it hurt? 伤到哪啦？
 
 ### 用 shape 搭配形容词谈论身体健康状况
 
@@ -20,36 +23,7 @@ category： English
 - He's in bad shape.  他身体不好。
 - John's in terrible shape.   John 身体很差。
 
-### 积极
-
-- eat well     
-- healthy     
-- relax     
-- sleep     
-- do yoga     
-- take vitamins     
-- exercise     
-- stressed out
-- go to the gym
-- ride my bike
-- eat healthy food / eat fresh fruit and vegetables.
-- watch sports
-- play sports
-
-
-### 不积极
-
-- sick  
-- smoke cigarettes
-
-### 询问
-
-- How are you feeling (today)?
-- Any other sympthons(症状)?
-- What's the problem? / What's wrong? / What's the matter? / What's happening? / What's going on?
-- Where does it hurt? 伤到哪啦？
-
-身体不大好：
+### 身体不大好
 
 - not very good(well)
 - not so great
@@ -66,7 +40,7 @@ Nothing. Don't worry about it.
 
 ### 症状
 
-- hava a sore throat / My throat hurts 嗓子痛
+- hava a sore throat / My throat hurts 嗓子痛 / I've got a cold
 - My head hurts / have a headache
 - have a stomachache(胃痛)
 - hava a fever / I feel really hot.
@@ -75,20 +49,6 @@ Nothing. Don't worry about it.
 - have a cough
 - I'm tired. / I feel tired.
 - sore arm 手臂疼
-
-### 建议
-
-- I think you have the flu.
-- Get lots of sleep.
-- take it easy. 放松点
-- Drink lots of liquids 多喝水
-- Take an aspirin for your headache 头痛的话吃片阿司匹林
-
-表达同情：
-
-- (I'm) sorry to hear that. / I'm so sorry.
-- That's too bad.   
-- Feel better soon.
 
 ## 感官动词
 
@@ -157,14 +117,19 @@ Sorry about work.
 - Don't worry about it. 
 - It's OK.
 
-## 周末活动
-
-- a game of cards 玩牌
-- watching a movie
-- go to the swimming pool
-- go to the gym 去健身房
-
 ## 建议
+
+- I think you have the flu.
+- Get lots of sleep.
+- take it easy. 放松点
+- Drink lots of liquids 多喝水
+- Take an aspirin for your headache 头痛的话吃片阿司匹林
+
+表达同情：
+
+- (I'm) sorry to hear that. / I'm so sorry.
+- That's too bad.   
+- Feel better soon.
 
 使用表达 how about、what about、why don't we 和 let's 提出建议。
 
@@ -208,4 +173,14 @@ Sorry about work.
 - Uh-uh
 - 使用表达 huh? 暗示你没听见或不理解某事。
 
+## 顺序副词
 
+表序副词有助于行为的正确排序。它们对指路或作出指示等事情很有用。最基本的表序副词基于数字：first、second、third 和 fourth 等等。请注意，这些副词后接逗号 (,)。
+
+First, take the bus to the subway station. Second, take the subway to the park. Third, walk to the museum.
+
+在副词 first 之后，您可以使用副词 next 和 then，两者可以互换。Then 后面通常不接逗号。
+
+- First, take the bus. Next, take the subway. Then walk.
+- First, take the bus. Then take the subway. Next, walk.
+    
