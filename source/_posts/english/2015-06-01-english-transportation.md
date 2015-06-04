@@ -21,9 +21,13 @@ category： English
 - What number bus?
 - How long does it take by bus?
 - Do you know a good place for coffee?
-- Do you know a nice park near here?   
+- Do you know a nice park near here?  
+- Excuse/Pardon me. Can you help me? 
+- I'm looking for the Star Restaurant.
 
 ## 提出交通建议
+
+### 乘坐交通工具
 
 请使用 go by + 交通工具或者 get there by + 交通工具指路。
 
@@ -35,6 +39,13 @@ category： English
 
 - Take the bus. It's raining. 
 - You can take the train to the beach.
+
+告诉您信息的人会让您知道您是否理解正确。
+
+- Correct
+- Yes, that's right.
+
+### 公交车
 
 公交车通常用数字（number）表示。地铁和火车通常用线路（line）表示。线路可以用名字或者数字表示。
 
@@ -50,10 +61,18 @@ category： English
 - Get off at the second stop. 在第二站下车。
 - Get off at (the) Pine Street.
 
+### 走法
+
+- go straight ahead, then turn right.
+- Turn right on Green Street. Then turn left on Third Steet. It's on the left.
+
+### 行驶时间
+
 请使用动词 take 谈论行驶的时间。
 
 - How long does it take by bus?   坐公交车需要多久呢？
 - It takes about 30 minutes.
+
 
 ### 方位
 
@@ -90,7 +109,7 @@ category： English
 
     The pizza place is behind the library.
 
-### 社区
+## 社区
 
 I live in a great neighborhood. The people are friendly, and there are many good shops. There's a delicious bakery across the street. There's a nice coffee shop on the corner. Sometimes I eat at the Italian restaurant next to the bakery. The food is good, but it's a little expensive. My favorite shop is the bookstore. It's near the park.
 
