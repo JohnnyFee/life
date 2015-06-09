@@ -39,3 +39,13 @@ The children's bathroom is blue.
 
 - A: Whose beautiful yard is that?
 - B: It's ours.
+
+## 复合词
+
+复合词是两个单词连接组合成新的单词。长时间来，人们常把两个词结合成一个词，但并非总是如此。比如：
+
+coffee + table = coffee table   咖啡桌
+
+复合词在读说时，总是重读两个词中的第一词。比如：
+
+My apartment has a FIREplace.   我的公寓里有壁炉。

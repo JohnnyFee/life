@@ -3,10 +3,6 @@ title： "English Numbers"
 category： English
 ---
 
-- 1,100 = one thousand, one hundred; or eleven hundred   
-- 1,500 = one thousand, five hundred; or fifteen hundred    
-
-
 ## Clothes
 
 - sweater
@@ -24,6 +20,15 @@ category： English
 - shoes
 - jacket
 
+
+## 电子商品
+
+- digital camera
+- e-reader
+- tablet
+- desktop computer
+- smartphone
+- laptop computer
 
 ## Material
 
@@ -52,16 +57,9 @@ I'm a medium size.
 
 Can I try it? = Can I try it on?
 
+## 价格
 
-What's new?
-
-- What's going on.
-- How are you doing?
-- Whats new with you?
-
-
-
-
-
-
+- Can I get a better deal on this?
+- Can I get a deal on this?
+- Can you give me a discount?
 
