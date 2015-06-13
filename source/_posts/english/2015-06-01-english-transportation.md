@@ -3,7 +3,9 @@ title： "Transportation"
 category： English
 ---
 
-## 交通工具
+## 词汇
+
+### 交通工具
 
 - bike
 - car
@@ -13,6 +15,20 @@ category： English
 - subway
 - plane
 - boat
+
+### 街道
+
+- turn left
+- turn right
+- go straight
+- block
+- subway
+- on foot
+- road
+- avenue
+- streets
+- slipway
+- highway
 
 ## 问路
 
@@ -24,6 +40,17 @@ category： English
 - Do you know a nice park near here?  
 - Excuse/Pardon me. Can you help me? 
 - I'm looking for the Star Restaurant.
+
+Convesation:
+
+- Good Afternoon. ISBC.
+- Hi, I've a meeting at your company today. How do get to your office, please?
+- OK, where are you now?
+- I'm in my car, on the corner of Third Avenue and Grant Street.
+- OK. First, drive north up Third Avenue for two blocks. Then make a left onto Sixth Street. Our building's on the right, at 46 Sixth Street.
+- OK. So, north up Third Avenue, left onto Sixth Streect. You're number 46.
+- Correct. We're on the nineth floor, number 23.
+- Thank you very much.
 
 ## 提出交通建议
 
@@ -112,4 +139,5 @@ category： English
 ## 社区
 
 I live in a great neighborhood. The people are friendly, and there are many good shops. There's a delicious bakery across the street. There's a nice coffee shop on the corner. Sometimes I eat at the Italian restaurant next to the bakery. The food is good, but it's a little expensive. My favorite shop is the bookstore. It's near the park.
+
 

@@ -49,3 +49,15 @@ coffee + table = coffee table   咖啡桌
 复合词在读说时，总是重读两个词中的第一词。比如：
 
 My apartment has a FIREplace.   我的公寓里有壁炉。
+
+## 顺序副词
+
+表序副词有助于行为的正确排序。它们对指路或作出指示等事情很有用。最基本的表序副词基于数字：first、second、third 和 fourth 等等。请注意，这些副词后接逗号 (,)。
+
+First, take the bus to the subway station. Second, take the subway to the park. Third, walk to the museum.
+
+在副词 first 之后，您可以使用副词 next 和 then，两者可以互换。Then 后面通常不接逗号。
+
+- First, take the bus. Next, take the subway. Then walk.
+- First, take the bus. Then take the subway. Next, walk.
+        

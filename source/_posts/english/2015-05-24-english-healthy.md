@@ -64,22 +64,6 @@ Nothing. Don't worry about it.
 - smells bad     
 - sounds beautiful
 
-## 频率
-
-使用 how often 疑问句询问某事的频率。
-
-A: How often do you exercise?
-B: I exercise every day.
-
-- 发生一次 once a week
-- 发生两次 twice a year
-- 多于两次 three times a day
-- 每隔一段时间发生，使用 every + 时间词
-    - every August
-    - every day
-- 使用 or 连接两个数字 once or twice a day
-- 当发生频率不确定，您也可以使用单词 about。 about once a month
-
 ## 道歉和接受道歉
 
 请使用短语 sorry about 接名词为某事道歉。
@@ -153,15 +137,3 @@ Sorry about work.
 - Nope
 - Uh-uh
 - 使用表达 huh? 暗示你没听见或不理解某事。
-
-## 顺序副词
-
-表序副词有助于行为的正确排序。它们对指路或作出指示等事情很有用。最基本的表序副词基于数字：first、second、third 和 fourth 等等。请注意，这些副词后接逗号 (,)。
-
-First, take the bus to the subway station. Second, take the subway to the park. Third, walk to the museum.
-
-在副词 first 之后，您可以使用副词 next 和 then，两者可以互换。Then 后面通常不接逗号。
-
-- First, take the bus. Next, take the subway. Then walk.
-- First, take the bus. Then take the subway. Next, walk.
-    
