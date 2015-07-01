@@ -60,4 +60,39 @@ First, take the bus to the subway station. Second, take the subway to the park. 
 
 - First, take the bus. Next, take the subway. Then walk.
 - First, take the bus. Then take the subway. Next, walk.
-        
+
+## 省略疑问句
+
+人们在非正式对话中有时使用疑问句的省略形式。要把 be 动词的一般疑问句变成省略形式，去掉句首的 be 动词即可。
+         
+Are you good at it?  =  You good at it? 你做这在行吗？ = 你做这在行吗？
+         
+要把其他动词的一般疑问句变成省略形式，去掉句首的 do 或 does。
+         
+Does she like sewing?  =  She likes sewing? 她喜欢缝纫吗？ = 她喜欢缝纫吗？
+         
+记住使用升调表示你在询问问题。
+         
+You good at it? 你做这在行吗？
+
+## Would like
+
+用短语 would like +不定式进行礼貌的要求。注意would如何在主格如I, he 和 they之后缩写成'd。
+ 
+Mr. Samuels would like to check in on May 21st. Samuels 先生想在 5 月 21 日登记入住。
+
+He'd like to have a nonsmoking room.    他想要一间无烟房。
+
+They'd like to check out on January 3rd.    他们想在 1 月 3 日结账退房。
+
+Would + subject + like + noun/infinitive 可用于提问。
+ 
+Would you like a double room?   您要双人房吗？
+
+Would you like to reserve the room now? 您现在要订房吗？
+
+使用下列回答，回答含有 would 的是否疑问句：
+ 
+Yes, please.    好的，谢谢。
+
+No, thank you.  不用，谢谢。

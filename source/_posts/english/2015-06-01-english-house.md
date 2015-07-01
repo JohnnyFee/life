@@ -21,7 +21,7 @@ Christian Y .: christian.y@etteachers.com 是个旅行者。
 - yard  院子
 - dining room 饭厅
 
-## 家具和电器
+## 家具(furniture)和电器
 
 - toilet 厕所
 - closet 小房间, 储藏室
@@ -39,6 +39,7 @@ Christian Y .: christian.y@etteachers.com 是个旅行者。
 - mailbox 邮箱
 - bookshelf 书架
 - fireplace 壁炉
+- air conditioner 空调设备
 
 ## 设施
 
@@ -165,3 +166,6 @@ I can put my sofa over there.
 
 some problems. Our place is quiet, but the neighborhood is dangerous sometimes. Our kitchen is modern and lovely, but the dishwasher is noisy. The bedroom is small, and the bathroom's a little ugly. The living room is great. We have a big TV and really comfortable chairs.
 
+## 社区
+
+I live in a great neighborhood. The people are friendly, and there are many good shops. There's a delicious bakery across the street. There's a nice coffee shop on the corner. Sometimes I eat at the Italian restaurant next to the bakery. The food is good, but it's a little expensive. My favorite shop is the bookstore. It's near the park.
