@@ -43,6 +43,33 @@ category： English
 
 文化注释：美国酒店常常询问有房间是给多少位客人的，然后询问床的大小-例如，一个大床给一对夫妇，或两个小床给两个人。酒店有不同的形式，但是您可以回答关于预订的大多数问题。
 
+熟悉一些您通过电话预订房间时酒店店员可能会问您的常见问题。
+
+首先，店员会问候您并问您他或她有什么可以帮您的。请注意may 在礼貌问句中比can 更正式。
+
+- Can I help you?                                         我能帮您吗？
+- May I help you? 我能帮您吗？
+- How can I help you?                                             我能怎么帮您？
+
+店员会问很多问题。
+
+- For how many people?    是给多少人的?                            
+- When are you checking in?   您什么时候入住?
+- For how many nights?    要住几晚?
+- Would you like a single room or a double?   您想要一个单人间还是双人间?
+
+当您们解决好细节的时候，店员将问您是否想确认预订并询问您必要信息。
+
+- Would you like to reserve it now?       您想现在就预订吗?        
+- Can I book that for you?        我可以为您预订吗?
+- Can I have your name?                   请问您尊姓大名?
+- May I have your credit card number? 请问您的信用卡号码是?
+
+当预订完成时，店员会问他或她是否还能帮到您什么。
+
+- Can I help you with anything else?  我可以帮您什么吗？
+- Is there anything else I can help you with? 有什么可以帮您的吗？
+
 ## 推荐酒店
 
 使用下列表达询问酒店推荐：
