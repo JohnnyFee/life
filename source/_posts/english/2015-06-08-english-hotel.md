@@ -3,6 +3,19 @@ title： "English Hotel"
 category： English
 ---
 
+## Vocabulary
+
+- suitcase 手提箱
+- elevator 电梯
+- hotel clerk 酒店职员
+- umbrella 雨伞, 伞状物
+- luggage 行李
+- key card 门卡
+- front desk 前台
+- lobby 门厅,(入口的)厅堂, 前厅
+- credit card 信用卡
+- passport 护照
+
 ## 酒店特点
 
 - It's right downtown. 正位于市中心。/ near the airport. 靠近机场/ close to shopping 邻近商店
@@ -69,6 +82,38 @@ category： English
 
 - Can I help you with anything else?  我可以帮您什么吗？
 - Is there anything else I can help you with? 有什么可以帮您的吗？
+
+## 入住酒店
+
+确认和修改
+
+确认某事，句子以so开头。
+ 
+- A: We're checking in on the 19th and checking out on the 22nd.  我们打算 19 号登记入住，22 号结账退房。
+- B: So, that's for three nights. 那就是住 3 个晚上。
+- A: That's correct.  对的。
+
+如果信息正确，请用这些表达：
+ 
+- Right.  对。
+- That's right.   没错。
+- Correct.    对的。
+- That's correct. 对的。
+ 
+如果信息有误，请用actually。
+ 
+- A: We're checking in on the 3rd and checking out on the 14th.   我们打算 3 - 号登记入住，14 号结账退房。
+- B: So, that's for 10 nights.    那就是住 10 个晚上。
+- A: Actually, it's 11 nights.    实际上是 11 个晚上。
+
+您纠正的那个人会用sorry about that 或 excuse me这样的表达进行道歉。
+ 
+
+- A: We're checking in on the 3rd and checking out on the 14th.   我们打算 3 号登记入住，14 号结账退房。
+- B: So, that's for 10 nights.    那就是住 10 个晚上。
+- A: Actually, it's 11 nights.    实际上是 11 个晚上。
+- B: Oh, sorry about that. That's 11 nights.  哦，对不起。是 11 个晚上。
+- A: That's right.    没错。
 
 ## 推荐酒店
 
