@@ -108,12 +108,82 @@ category： English
 
 您纠正的那个人会用sorry about that 或 excuse me这样的表达进行道歉。
  
-
 - A: We're checking in on the 3rd and checking out on the 14th.   我们打算 3 号登记入住，14 号结账退房。
 - B: So, that's for 10 nights.    那就是住 10 个晚上。
 - A: Actually, it's 11 nights.    实际上是 11 个晚上。
 - B: Oh, sorry about that. That's 11 nights.  哦，对不起。是 11 个晚上。
 - A: That's right.    没错。
+
+人们常常用礼貌，友好的话语来预示着这段谈话准备结束。例如，当入住酒店时，店员会说You're all set 意味着住入手续完成。然后店员会说类似于Have a nice day这样的话。
+ 
+- You're all set.                     一切准备就绪。
+- That's about it.    一切都准备好了。
+- Here's your credit card.    这是您的信用卡。
+- Have a nice day.    希望您度过愉快的一天。
+- Have a pleasant stay.       祝您入住愉快。
+- Have a good evening.    祝您度过一个愉快的夜晚。
+- Take care.  保重。
+
+## 酒店退房
+
+这里有一些您在酒店退房时可以用到的表达：
+ 
+- I'd  like to check out, please.                             劳驾，我想结账。
+- I'm checking out.   我在结账。
+- Could I check out, please?  劳驾，我能结账吗？
+
+退房最重要的部分当然是结算账单。店员将告诉您，您要支付多少钱：
+ 
+- That's $996.            一共 996 美元。
+- Your bill comes to $996.    您的账单是996美元。
+- The total amount is $996.   总价是996美元。
+
+如果您对账单有任何疑问，请用这些表达：
+ 
+- That seems high.                            似乎高了。 
+- That doesn't seem right.    这貌似不对。
+- I'd like to review my bill, please. (请让我再查看我的账单。)
+ 
+一旦您同意账单上的数额，店员就会询问您要以什么方式支付。
+ 
+- Would you like to pay with your credit card?    您想用信用卡付款吗？
+- How would you like to pay for that?     您想怎么付款？
+
+如果您是出差，记得要拿发票。
+ 
+I'd like a receipt, please.                             劳驾把收据给我。
+
+当您退房时，酒店接待处的店员会询问您入住的反馈。请注意在表达中，was 是动词be的过去式。
+         
+- How was your stay?  (您的入住愉快吗?)
+- How was everything? (一切如何?)
+- How was your room?  (您的房间如何?)
+         
+这有一些给予肯定的，非特定反馈的方式：
+ 
+- It was fine, thanks.    好的，谢谢。
+- Everything was great.   一切都非常好。
+
+
+如有某事物让您感到不满，您会想告诉酒店。这里有一些例子：
+         
+- Pretty nice, but my room was very small.    挺好的, 但我的房间非常小。
+- It was OK, but my shower wasn't very hot.   还可以, 但是我的淋浴不是很热。
+- Actually, my bed was a little uncomfortable.    (实际上, 我的床有点不舒服。)
+         
+酒店店员会以以下的其中一种方式予以回应：
+         
+- I'm sorry to hear that. 得知此事我很抱歉。
+- I do apologize for that.    我对此深表歉意。
+- Thanks for letting us know. (感谢您告知我们。)
+
+
+根据您的感受，这里有一些可能的回应：
+         
+- That's okay.                            没事。
+- No problem. (没问题。)
+- It's not a big deal.    没什么大不了的了。
+
 
 ## 推荐酒店
 
