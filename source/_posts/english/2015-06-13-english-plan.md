@@ -3,7 +3,6 @@ title： "English Plan"
 category： English
 ---
 
-
 ## 谈论计划和可能
  
 使用下列表达询问他人是否有计划。

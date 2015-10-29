@@ -90,20 +90,6 @@ The bank is at 43 Central Boulevard.    银行位于 Central Boulevard 大道 43
 
 注意如果数字是 0，你可以念做 zero 或者 oh。
 
-## 地形
-
-- coast 海岸
-- ocean 海洋
-- desert 戈壁, 沙漠
-- mountains 山, 山脉
-- river 河, 河流, 江
-- beach 海滩
-- hills 小山, 山丘
-- forest 森林
-- lake 湖, 湖水
-- ocean 海洋, 海
-- valley 山谷, 溪谷, 流域
-
 ## 问路
 
 - How do I get to the museum?  
